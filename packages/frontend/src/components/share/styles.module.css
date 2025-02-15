@@ -1,0 +1,26 @@
+.base {
+  cursor: pointer;
+  color: var(--gray-0);
+  background-color: transparent;
+  border: none;
+}
+
+.base:hover {
+  color: var(--gray-4);
+}
+
+.share {
+  display: block;
+}
+.copy {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .share {
+    display: none;
+  }
+  .copy {
+    display: block;
+  }
+}

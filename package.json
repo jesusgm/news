@@ -1,0 +1,21 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run dev --workspace=packages/frontend",
+    "build": "npm run build --workspace=packages/frontend && mv ./packages/frontend/dist ./docs",
+    "cron": "npm run cron --workspace=packages/scrappers",
+    "files": "node packages/files/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "My news app",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.13.4"
+  }
+}
