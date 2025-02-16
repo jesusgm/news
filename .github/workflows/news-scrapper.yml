@@ -43,7 +43,6 @@ jobs:
           git add docs packages/files/index.json packages/files/list.json
           # git status
           git commit -m "[bot] Update news"
-          git push origin main
 
       - name: Push
         run: |
