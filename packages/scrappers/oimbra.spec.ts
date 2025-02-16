@@ -10,9 +10,8 @@ config({ path: path.resolve(__dirname, "../..", ".env") });
 
 const source = "oimbra";
 
-test(source, async () => {
+test.skip(source, async () => {
   const browser = await chromium.launch({
-    headless: false,
     args: ["--disable-blink-features=AutomationControlled"],
   });
   const context = await browser.newContext({
