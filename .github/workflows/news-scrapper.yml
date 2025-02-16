@@ -12,16 +12,14 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
-
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
 
       - name: Install dependencies
         run: npm install
@@ -43,11 +41,11 @@ jobs:
           git config user.name jesusgm
           git config user.email jesusalxen@gmail.com
           git add docs packages/files/index.json packages/files/list.json
-          git status
-          # git commit -m "[bot] Update news"
-          # git push origin main
+          # git status
+          git commit -m "[bot] Update news"
+          git push origin main
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.TOKEN }}
+      - name: Push
+        run: |
+          git remote set-url origin https://x-access-token:${{ github.TOKEN }}@github.com/${{ github.repository }}
+          git push
