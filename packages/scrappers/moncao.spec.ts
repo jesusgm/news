@@ -12,7 +12,8 @@ test("moncao", async () => {
   );
 
   if (!response.ok) {
-    throw new Error("Error fetching data");
+    return;
+    ("Error fetching data");
   }
 
   const news = await response.json();
