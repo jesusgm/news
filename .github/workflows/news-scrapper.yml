@@ -33,10 +33,10 @@ jobs:
       - name: Generate frontend
         run: npm run build
 
-      - uses: actions/checkout@master
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
@@ -46,8 +46,3 @@ jobs:
           git status
           git commit -m "[bot] Update news"
           git push origin main
-
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
