@@ -6,7 +6,6 @@ export function Footer() {
   return (
     <nav className={styles.nav}>
       <Link to="/">News</Link>
-      <Link to="/status">Status</Link>
     </nav>
   );
 }
