@@ -33,9 +33,10 @@ jobs:
       - name: Generate frontend
         run: npm run build
 
-      - uses: webfactory/ssh-agent@v0.9.0
+      - uses: actions/checkout@master
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Commit changes
         run: |
@@ -44,3 +45,8 @@ jobs:
           git add docs packages/files/index.json packages/files/list.json
           git commit -m "[bot] Update news"
           git push origin main
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
