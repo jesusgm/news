@@ -16,7 +16,7 @@ test(source, async () => {
     );
 
     if (!response.ok) {
-      return;
+      throw new Error("Error fetching data");
     }
 
     const news = await response.json();
