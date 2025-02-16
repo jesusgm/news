@@ -1,0 +1,40 @@
+name: Run News Scrapper
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run cron script
+        run: npm run cron
+
+      - name: Run files script
+        run: npm run files
+
+      - name: Generate frontend
+        run: npm run build
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Jesús Gándara'
+          git config --global user.email 'jesusalxen@gmail.com'
+          git add packages/files
+          git add docs
+          git commit -m "chore: Update news"
+          git push
