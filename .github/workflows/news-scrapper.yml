@@ -41,10 +41,10 @@ jobs:
         run: npm run build
 
       - name: Commit changes
-        run: |
-          git config --global user.name 'Jesús Gándara'
-          git config --global user.email 'jesusalxen@gmail.com'
-          git add packages/files
-          git add docs
-          git commit -m "chore: Update news"
-          git push
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.TOKEN }}"
+          add_timestamp: true
+          commit_prefix: "[AUTO]"
+          commit_message: "Automatic commit"
+          force: true
