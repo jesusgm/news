@@ -27,16 +27,16 @@ jobs:
       - name: Run cron script
         run: npm run cron
 
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
       - name: Run files script
         run: npm run files
 
       - name: Generate frontend
         run: npm run build
-
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
@@ -44,5 +44,10 @@ jobs:
           git config user.email jesusalxen@gmail.com
           git add docs packages/files/index.json packages/files/list.json
           git status
-          git commit -m "[bot] Update news"
-          git push origin main
+          # git commit -m "[bot] Update news"
+          # git push origin main
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
