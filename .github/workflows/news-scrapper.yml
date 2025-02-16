@@ -27,13 +27,6 @@ jobs:
       - name: Run cron script
         run: npm run cron
 
-      - uses: actions/upload-artifact@v4
-        if: ${{ !cancelled() }}
-        with:
-          name: playwright-report
-          path: playwright-report/
-          retention-days: 30
-
       - name: Run files script
         run: npm run files
 
@@ -41,10 +34,9 @@ jobs:
         run: npm run build
 
       - name: Commit changes
-        uses: devops-infra/action-commit-push@master
-        with:
-          github_token: "${{ secrets.TOKEN }}"
-          add_timestamp: true
-          commit_prefix: "[AUTO]"
-          commit_message: "Automatic commit"
-          force: true
+        run: |
+          git config user.name jesusgm
+          git config user.email jesusalxen@gmail.com
+          git add docs packages/files/index.json packages/files/list.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update news"
+          git push origin main
