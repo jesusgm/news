@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "npm run dev --workspace=packages/frontend",
-    "build": "npm run build --workspace=packages/frontend && rm -rf ./docs && mkdir ./docs && mv ./packages/frontend/dist ./docs",
+    "build": "npm run build --workspace=packages/frontend && rm -rf ./docs && mv ./packages/frontend/dist ./docs",
     "cron": "npm run cron --workspace=packages/scrappers",
     "files": "node packages/files/index.js"
   },
