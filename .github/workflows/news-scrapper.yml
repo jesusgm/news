@@ -43,6 +43,7 @@ jobs:
           git config user.name jesusgm
           git config user.email jesusalxen@gmail.com
           git add docs packages/files/index.json packages/files/list.json
+          git status
           git commit -m "[bot] Update news"
           git push origin main
 
