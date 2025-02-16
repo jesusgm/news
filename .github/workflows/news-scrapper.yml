@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name jesusgm
           git config user.email jesusalxen@gmail.com
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/jesusgm/news.git
+          git remote set-url origin https://${{secrets.TOKEN}}github.com/jesusgm/news.git
           git add docs packages/files/index.json packages/files/list.json
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update news"
           git push origin main
