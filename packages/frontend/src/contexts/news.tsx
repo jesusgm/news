@@ -10,6 +10,7 @@ import { debounce } from "../utils/debounce";
 import { useSearchParams, useLocation } from "react-router-dom";
 import { PAGE_SIZE } from "../../../constants";
 import newsFromFile from "../../../files/index.json";
+import { newsSorter } from "../utils/sorter";
 
 const NewsContext = createContext<NewsContextType>({
   news: [],
@@ -42,7 +43,7 @@ const NewsContextProvider = ({ children }: { children: React.ReactNode }) => {
     const dateto = filters.get("dateto") ?? "";
     const limitFilter = filters.get("limit") ?? "18";
     const offsetFilter = filters.get("offset") ?? "0";
-    const newsFiltered = newsFromFile.filter((n) => {
+    const newsFiltered = newsFromFile.sort(newsSorter).filter((n) => {
       return (
         (source === "" || n.source === source) &&
         (search === "" ||
