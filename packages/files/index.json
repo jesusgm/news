@@ -1,6 +1,6 @@
 [
   {
-    "id": "a64aace7-18ae-4f6a-8c55-a242fb196161",
+    "id": "521f92fd-2b57-4f32-80df-84bf69509f1c",
     "title": "El Ayuntamiento de A Cañiza consigue una ayuda de 700.000,00€ de la Diputación Provincial para el proyecto de humanización de la calle ANTONIO FACORRO",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/CA%C3%91IZA2_COCHESMODF_0.jpg?itok=7Z24qdWN",
     "date": 1741737600000,
@@ -9,7 +9,7 @@
     "source": "acaniza"
   },
   {
-    "id": "add8b6e7-ebd4-44c3-b2c4-d20b891fcdd7",
+    "id": "e2063b2a-55d3-4954-b0fb-22c535e15fc6",
     "title": "Comienzan los preparativos para celebrar una nueva edición de la «SESTELO CLÁSICA ÁLVARO PINO». 25 de mayo de 2025",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_0922.jpg?itok=rYoNDLzn",
     "date": 1741564800000,
@@ -18,7 +18,7 @@
     "source": "acaniza"
   },
   {
-    "id": "98da71c8-feea-435a-9f56-a3d3d15ed027",
+    "id": "078b661e-8867-4db4-9ca9-b97dd061bbbc",
     "title": "8 de Marzo. Día Internacional de la Mujer. Actividades programadas por el Ayuntamiento y Declaración Institucional de la FEGAMP",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/cartel%20actividades%208marzo%202025%20-%20copia.jpg?itok=sWOH5zyx",
     "date": 1741305600000,
@@ -27,7 +27,7 @@
     "source": "acaniza"
   },
   {
-    "id": "7fdccea3-afd0-4765-9c05-d854dc82a162",
+    "id": "aed1ab48-cb7f-40d4-ac7e-7638a93ea5a5",
     "title": "A Cañiza contará con el nuevo servicio de oficinas móviles de la Policía para el rural",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/97f3614e-dc3a-4dd1-a3e7-932b3a9c7bb0.JPG?itok=EssPunkD",
     "date": 1741305600000,
@@ -36,7 +36,7 @@
     "source": "acaniza"
   },
   {
-    "id": "ba9ef635-8113-48a3-b8c5-7821d0b4e81b",
+    "id": "c230a838-80e0-4d32-8daa-5eacf53c1fc0",
     "title": "Comenzamos el mes de marzo con la «4ª  campaña municipal de trampeo contra la avispa velutina»",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/51350a82-c504-40e5-8782-461ca45fa00e.JPG?itok=Q6MfhVE3",
     "date": 1741219200000,
@@ -45,7 +45,7 @@
     "source": "acaniza"
   },
   {
-    "id": "9bd8111d-9eff-4580-95d0-15a537105141",
+    "id": "d2e06d15-297c-47cc-9d23-ef8d1054d993",
     "title": "A Cañiza y el Colegio de Arquitectos de Galicia rinden homenaje a Rita Fernández Queimadelos, una arquitecta pionera gallega que a partir de hoy da nombre a la Plaza del Mercado",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_1170.jpg?itok=Dew3-vqA",
     "date": 1741132800000,
@@ -54,7 +54,7 @@
     "source": "acaniza"
   },
   {
-    "id": "c722455b-c9c6-47aa-a3f9-cab2ffaab88d",
+    "id": "e7e71cd4-84a2-4536-8d21-a674a21f1e66",
     "title": "El Alcalde recibe en el Salón de Plenos a Fidel Rodríguez, entrenador y coordinador del gimnasio municipal , tras conseguir la medalla de bronce en el Campeonato de España por Equipos de Poomsae",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_0415.jpeg?itok=EwhzJzD4",
     "date": 1741046400000,
@@ -63,7 +63,7 @@
     "source": "acaniza"
   },
   {
-    "id": "f634013f-dbde-4531-8f4b-2630fb82920e",
+    "id": "f966c51c-7229-45b5-8e4e-11e4bb3cdd61",
     "title": "Invitación a nuestros vecinos para asistir al descubrimiento de la placa de la plaza «ARQUITECTA RITA FERNÁNDEZ QUEIMADELOS».",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/811d22e6-54b8-46cf-b6fb-1b4fbebeb404_2.jpg?itok=vdRcDSyp",
     "date": 1740960000000,
@@ -72,7 +72,7 @@
     "source": "acaniza"
   },
   {
-    "id": "751c56b1-04f6-468d-a34b-b3f97f5e364a",
+    "id": "cb2e4054-c236-496d-8e49-02f70e69b1bc",
     "title": "A Cañiza celebró este domingo su «CONCURSO DE COMPARSAS» que un año más consiguió reunir a más de 300 participantes en la calles del centro.",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/DSC_0161.jpg?itok=2sTI9bVx",
     "date": 1740960000000,
@@ -81,13 +81,22 @@
     "source": "acaniza"
   },
   {
-    "id": "e5e355e0-0d26-4146-b6aa-97ea8e7ce064",
+    "id": "25143d44-8093-473b-b100-07b031879256",
     "title": "Desfile de carnaval del alumnado del CPI de A Cañiza",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/WhatsApp%20Image%202025-02-28%20at%2013.14.12.jpeg?itok=hkZHEVFn",
     "date": 1740700800000,
     "link": "https://www.caniza.org/es/actualidade/novas/desfile-de-carnaval-del-alumnado-del-cpi-de-caniza",
     "text": "Los alumnos del CPI de A Cañiza, acompañados de los profesores y de la...",
     "source": "acaniza"
+  },
+  {
+    "id": "1453889281388",
+    "title": "O director e compositor Óscar Navarro, recoñecido na súa traxectoria cun nomeamento aos Goya, será o convidado da Banda Municipal este domingo 16",
+    "image": "https://www.coruna.gal/IMG/P_Suceso_1453889281388_1099934327828_1200_1280_U_c01a28d21fc1f935c811ce161fbb6ac.png",
+    "date": 1741824000000,
+    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/o-director-e-compositor-oscar-navarro-reconecido-na-sua-traxectoria-cun-nomeamento-aos-goya-sera-o/suceso/1453889281388",
+    "text": "Navarro levará a batuta nun concerto aberto ao público no que, ademais, cobrará protagonismo o solista de violín Daniel Vlashi, coruñés que está a dar os seus primeiros pasos na Filharmónica de Berlín",
+    "source": "acoruna"
   },
   {
     "id": "1453889208520",
@@ -177,15 +186,6 @@
     "date": 1741392000000,
     "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/a-coruna-sae-a-rua-esixindo-igualdade-na-manifestacion-do-dia-internacional-das-mulleres/suceso/1453889000181",
     "text": "Máis de 3.000 persoas participaron na mobilización pese á persistente chuvia",
-    "source": "acoruna"
-  },
-  {
-    "id": "1453888982035",
-    "title": "Aberto o prazo de inscrición nas visitas guiadas á exposición ‘A cidade das artes’, que arrincarán o vindeiro venres 14 no Kiosco Alfonso",
-    "image": "https://www.coruna.gal/IMG/P_Suceso_1453888982035_1099934327828_1200_1280_U_308a3bed35b69cfdceedf7fff88bfbc.png",
-    "date": 1741392000000,
-    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/aberto-o-prazo-de-inscricion-nas-visitas-guiadas-a-exposicion-a-cidade-das-artes-que-arrincaran-o/suceso/1453888982035",
-    "text": "A mostra, que conmemora o 175.º aniversario da Real Academia Galega de Belas Artes, percorre a historia común que vincula a institución e a cidade desde mediados do século XIX ata a actualidade",
     "source": "acoruna"
   },
   {
@@ -909,6 +909,15 @@
     "source": "celanova"
   },
   {
+    "id": "2905",
+    "title": "MACNA inaugura nova exposição dia 15 de março",
+    "image": "https://www.chaves.pt/imgcrop/cmchaves/uploads/news/image/2905/chaves_nadir_sequenzas_1080_1080_1_640_400.png",
+    "date": 1741824000000,
+    "link": "https://www.chaves.pt/pages/314?news_id=2905",
+    "text": "\"Nadir Afonso: Sequenzas - variações poéticas do pensamento pictórico\" é a mais ...",
+    "source": "chaves"
+  },
+  {
     "id": "2904",
     "title": "Espetáculo teatral traz a palco poesia de ...",
     "image": "https://www.chaves.pt/imgcrop/cmchaves/uploads/news/image/2904/cmc_5536_1_640_400.JPG",
@@ -1059,15 +1068,6 @@
     "date": 1740096000000,
     "link": "https://www.chaves.pt/pages/314?news_id=2888",
     "text": "O encontro “Conversas com Memória” juntou, na sala polivalente da Biblioteca ...",
-    "source": "chaves"
-  },
-  {
-    "id": "2887",
-    "title": "“Dar Alegria aos Anos” uma dinâmica ...",
-    "image": "https://www.chaves.pt/imgcrop/cmchaves/uploads/news/image/2887/2025_02_23_dar_alegria_aos_anos_1_640_400.jpg",
-    "date": 1740009600000,
-    "link": "https://www.chaves.pt/pages/314?news_id=2887",
-    "text": "Sob o mote \"Dar Alegria ao Anos – Minhas Memórias\", o projeto municipal de ação social ...",
     "source": "chaves"
   },
   {
@@ -1296,7 +1296,7 @@
     "source": "covelo"
   },
   {
-    "id": "6c411742-6f1e-4950-a6ef-a8bef90ff853",
+    "id": "4ea1a4a0-028e-4623-a572-49c8e131b6f1",
     "title": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación de Pontevedra",
     "date": 1737936000000,
     "text": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación",
@@ -1305,7 +1305,7 @@
     "source": "crecente"
   },
   {
-    "id": "4322b835-7389-48b9-b593-bc7e15e3b05d",
+    "id": "b401f6ed-a960-4642-bac6-92d336461bba",
     "title": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación de Pontevedra",
     "date": 1737936000000,
     "text": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación",
@@ -1314,7 +1314,7 @@
     "source": "crecente"
   },
   {
-    "id": "d08d86f3-b86f-42dc-93fb-2a44a2c422a8",
+    "id": "4f468f04-c5fe-426b-b89b-25cdb3187787",
     "title": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER",
     "date": 1733702400000,
     "text": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER Compartir CompartirO Concello de Crecente mellora o camiño de Paradela, na parroquia de Angudes, gracias á financiación do AGADER mediante a con",
@@ -1323,7 +1323,7 @@
     "source": "crecente"
   },
   {
-    "id": "53277514-7346-444a-8c6d-aa73ca3e7c28",
+    "id": "4b9fdbb3-b1f8-44d6-b33b-9420fc5d8e2d",
     "title": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER",
     "date": 1733702400000,
     "text": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER Compartir CompartirO Concello de Crecente mellora o camiño de Paradela, na parroquia de Angudes, gracias á financiación do AGADER mediante a con",
@@ -1332,7 +1332,7 @@
     "source": "crecente"
   },
   {
-    "id": "ee7f4216-bda9-4d4a-b52b-9612a16d8d49",
+    "id": "f2ffc00a-75fd-450f-b51c-abd17f9ecb18",
     "title": "Plan + provincia 2024",
     "date": 1727913600000,
     "text": "Plan + provincia 2024 Compartir CompartirO +PROVINCIA é xa un instrumento de transformación estratéxico para lograr un maior equilibrio territorial, cohesión social e avance económico A primeira edición do PLAN +PROVINCIA reforza",
@@ -1645,6 +1645,78 @@
     "link": "http://www.concellodelousame.gal/index.php/gl/novas/todas-as-novas/12-novas/1688-do-campo-e-villaverde-animan-aos-negocios-e-empresas-do-sector-servizos-a-solicitar-as-axudas-da-xunta-para-reducir-a-factura-electrica",
     "text": "A delegada da Xunta e alcaldesa de Lousame visitaron hoxe a Farmacia Tállara, beneficiaria do Bo ...",
     "source": "lousame"
+  },
+  {
+    "id": "9ce082fe-9a70-4e31-9643-8f4eb39032fb",
+    "title": "A área de Cultura e o Colectivo Glovo abren a convocatoria do programa de residencias artísticas e investigación Atopémonos bailando",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/img_0011.jpg?itok=BGeIJQ4u",
+    "date": 1741737600000,
+    "link": "https://concellodelugo.gal/gl/novas/area-de-cultura-e-o-colectivo-glovo-abren-convocatoria-do-programa-de-residencias-artisticas-e",
+    "text": "Maite Ferreiro: \"Trátase dunha convocatoria aberta a todas as profesionais da danza e das artes do movemento para realizar proxectos na cidade durante este ano\"\nA área de Cultura consolida o seu apoio ao sector da danza con esta convocatoria que permitirá avanzar na investigación e na creación de proxectos e espectáculos con 11 proxectos",
+    "source": "lugo"
+  },
+  {
+    "id": "fdf3484c-ee9b-4253-92df-6cc7f65b67ba",
+    "title": "O concello de Lugo saca a licitación os vieiros escolares seguros para 5 centros de ensino públicos",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/ruben_arroxo_iria_buide.jpeg?itok=75D1Fa5R",
+    "date": 1741737600000,
+    "link": "https://concellodelugo.gal/gl/novas/o-concello-de-lugo-saca-licitacion-os-vieiros-escolares-seguros-para-5-centros-de-ensino",
+    "text": "Iria Buide, concelleira de Educación, anunciou a posta en marcha dun servizo \"que permite facilitar a conciliación familiar e os hábitos de vida saudables, ademais de reducir o tráfico na contorna dos centros de ensino\"\nO Goberno de Lugo aprobou hoxe a apertura do proceso de licitación cun orzamento máximo de 21.032,55€",
+    "source": "lugo"
+  },
+  {
+    "id": "34f8c61c-54ba-462b-9273-efa2cafe3647",
+    "title": "A provincia de Lugo, Asturias e a Costa da Morte centran as propostas de ocio saudable programadas por Xuventude",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/cartel_sendeirismo_publi.jpg?itok=ya23Oibv",
+    "date": 1741737600000,
+    "link": "https://concellodelugo.gal/gl/novas/provincia-de-lugo-asturias-e-costa-da-morte-centran-propostas-de-ocio-saudable-programadas-por",
+    "text": "O Goberno Local programa de marzo a xuño 5 rutas de sendeirismo gratuítas para coñecer Terras do Miño, o bosque dos Grobos de Becerreá, Os Oscos asturianos e o Camiño dos Faros.\nA primeira das viaxes será o vindeiro día 22, cun rastrexo de fauna salvaxe e supervivencia no medio natural cun percorrido pola citada reserva da biosfera.\n“Nos traxectos polo territorio lucense préstase especial atención á promoción do noso rico patrimonio natural, con itinerarios temáticos”, sinalou Jorge Bustos.",
+    "source": "lugo"
+  },
+  {
+    "id": "6d918cb2-9c4d-4f82-9c56-fb4ea81c0c6d",
+    "title": "Xuventude impulsa a rexeneración artística das escaleiras da Rúa Santiago, cun mural a cargo de Diego As e Pablo Lage",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/120325_escaleiras_da_rua_santiago_1.jpeg?itok=G9HzptFU",
+    "date": 1741737600000,
+    "link": "https://concellodelugo.gal/gl/novas/xuventude-impulsa-rexeneracion-artistica-das-escaleiras-da-rua-santiago-cun-mural-cargo-de",
+    "text": "Esta é unha das intervencións previstas para este ano, no que tamén se actuará no barrio de Fingoi, a través da cuarta edición do Urban Cores, e na praza do Castiñeiro.\nEstase a preparar a xornada “Senda rachada”, de difusión do arte urbano, con artistas locais consolidados e emerxentes, que darán visibilidade á presenza da muller neste campo.\nO edil desta área, Jorge Bustos, cre que “Lugo pode ser referente na recuperación urbana, mediante murais, a humanización e o embelecemento de espazos públicos”.",
+    "source": "lugo"
+  },
+  {
+    "id": "499bb275-b307-4cba-a13a-2e8b23243a29",
+    "title": "Miguel Fernández elixido novo alcalde de Lugo",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/110325_miguelfernandez_1.jpeg?itok=auBdp7r1",
+    "date": 1741651200000,
+    "link": "https://concellodelugo.gal/gl/novas/miguel-fernandez-elixido-novo-alcalde-de-lugo",
+    "text": "“O futuro de Lugo pasa por dispoñer dun espazo urbano moderno, sostible, ecolóxico e acolledor que achegue calidade de vida e facilite a socialización, por un rural competitivo e innovador e por unha economía dinámica e en continuo crecemento”, afirmou o novo rexedor.",
+    "source": "lugo"
+  },
+  {
+    "id": "13d576dd-5756-4a56-aebd-7e4e0326eeff",
+    "title": "O Parque Infantil de Tráfico recupera a actividade con formacións para estudantes da cidade de Lugo",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/visita_pit_1.jpeg?itok=RRfAmm_g",
+    "date": 1741564800000,
+    "link": "https://concellodelugo.gal/gl/novas/o-parque-infantil-de-trafico-recupera-actividade-con-formacions-para-estudantes-da-cidade-de",
+    "text": "Rubén Arroxo e Iria Buide visitaron o PIT, onde comezaron as formacións para as e os escolares de Lugo\nO Alcalde en Funcións destacou a colaboración da Tenencia de Alcaldía coa DXT \"para achegar esta formación aos centros de ensino de xeito gratuíto\"",
+    "source": "lugo"
+  },
+  {
+    "id": "ccfe1a72-ee42-4639-bb9f-3b9c148debf6",
+    "title": "Amplísima representación institucional, política e social no funeral por Paula Alvarellos, celebrado hoxe na Catedral",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/100325_funeral_paula_alvarellos_catedral_1.jpeg?itok=VZCzzh7l",
+    "date": 1741564800000,
+    "link": "https://concellodelugo.gal/gl/novas/amplisima-representacion-institucional-politica-e-social-no-funeral-por-paula-alvarellos",
+    "text": "A cerimonia relixiosa, organizada polo Bispado, volveu contar coa asistencia de centos de cidadás e cidadáns, para despedir á que foi a súa alcaldesa durante o derradeiro ano.",
+    "source": "lugo"
+  },
+  {
+    "id": "0321c61d-fa0f-4b34-978a-2d066590234c",
+    "title": "Rubén Arroxo e Alexandre Penas reúnense con veciñas e veciños da Garaballa",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/garaballa_1.jpeg?itok=lOzQ7Bfq",
+    "date": 1741478400000,
+    "link": "https://concellodelugo.gal/gl/novas/ruben-arroxo-e-alexandre-penas-reunense-con-vecinas-e-vecinos-da-garaballa",
+    "text": "A área de Infraestruturas do Concello de Lugo realizou unha serie de actacións na contorna da Garaballa de Arriba, investindo preto de 72.000€.\nArroxo: \"Seguimos mantendo xuntanzas coa veciñanza dos barrios para coñecer de primeira man as necesidades en todas as zonas da cidade\".",
+    "source": "lugo"
   },
   {
     "id": "25962",
@@ -2259,61 +2331,16 @@
     "source": "mos"
   },
   {
-    "id": 1741825626437,
-    "title": "Xogos tradicionais e música para reivindicar a igualdade no Porriño",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/IMAXE-150x150.jpeg",
-    "date": 1741737600000,
-    "link": "https://oporrino.org/xogos-tradicionais-e-musica-para-reivindicar-a-igualdade-no-porrino/",
-    "text": "O Concello do Porriño estende aos 365 días do ano a reivindicación dos dereitos das mulleres e da igualdade de xénero. Así, pasado xa o 8 de Marzo, continúan esta semana as actividades integradas na programación organizada con motivo do Día Internacional da Muller…",
-    "source": "oporrino"
+    "id": "6a087995-841d-48b5-a83d-1ab4733408b5",
+    "title": "O Congreso de divulgación da ciencia reúne en Ourense máis de cen profesionais de 7 países",
+    "image": "https://ourense.gal/media/news/El_Congreso_de_divulgaci%C3%B3n_de_la_ciencia_reune_en_Ourense_a_m%C3%A1is_de_cien_profesion_2BvO8Wi.jpeg",
+    "date": 1741824000000,
+    "link": "https://ourense.gal/gl/actualidad/o-congreso-de-divulgacion-da-ciencia-reune-en-ourense-mais-de-cen-profesionais-de-7-paises",
+    "text": "-",
+    "source": "ourense"
   },
   {
-    "id": 1741825626437,
-    "title": "O Porriño creará un gran corredor verde no centro da vila",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/FOTO-1-1-150x150.jpeg",
-    "date": 1741737600000,
-    "link": "https://oporrino.org/o-porrino-creara-un-gran-corredor-verde-no-centro-da-vila/",
-    "text": "O Concello do Porriño vén de presentar un novo proxecto co obxectivo de mitigar os efectos adversos do cambio climático e favorecer a adaptación da cidadanía aos novos escenarios ambientais. Son dúas as actuacións contempladas consistentes na adecuación de dous espazos públicos urbanos en…",
-    "source": "oporrino"
-  },
-  {
-    "id": 1741825626437,
-    "title": "Preto de 200 escolares do Porriño viaxan á neve",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/FOTO-1-150x150.jpg",
-    "date": 1741564800000,
-    "link": "https://oporrino.org/preto-de-200-escolares-do-porrino-viaxan-a-neve/",
-    "text": "Preto de 200 escolares de tódolos centros educativos do Porriño participan nos vindeiros días da coñecida como Semana Branca. Unha actividade consistente nunha viaxe de tres días a unha estación de esquí de San Isidro, provincia de León. Están organizadas tres saídas, a primeira…",
-    "source": "oporrino"
-  },
-  {
-    "id": 1741825626437,
-    "title": "Recoñecemento ás mulleres do Porriño: Unha emotiva homenaxe no 8M",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/FOTO-1-150x150.jpeg",
-    "date": 1741392000000,
-    "link": "https://oporrino.org/reconecemento-as-mulleres-do-porrino-unha-emotiva-homenaxe-no-8m/",
-    "text": "O Concello do Porriño converteuse hoxe nun espazo de memoria, recoñecemento e reivindicación coa celebración do acto central do 8M, organizado pola Concellería de Igualdade, no marco da campaña municipal “8M, 365 días”. Numerosos veciños e veciñas achegáronse ata o Concello para sumarse a…",
-    "source": "oporrino"
-  },
-  {
-    "id": 1741825626437,
-    "title": "Aviso de cortes de tráfico polo Enterro da Sardiña – 5 de marzo de 2025",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-04-at-12.26.30-150x150.jpeg",
-    "date": 1741046400000,
-    "link": "https://oporrino.org/aviso-de-cortes-de-trafico-polo-enterro-da-sardina-5-de-marzo-de-2025/",
-    "text": "O próximo 5 de marzo de 2025, con motivo da celebración do tradicional Enterro da Sardiña, estableceranse restricións de tráfico nas seguintes rúas: A partir das 18:00 h:Rúa Domingo Bueno ata a baixada da fonte da rúa San Sebastián. Última hora da tarde:Rúa Peña…",
-    "source": "oporrino"
-  },
-  {
-    "id": 1741825626437,
-    "title": "O Porriño presenta a programación do 8M baixo o lema “8M, 365 DÍAS”",
-    "image": "https://oporrino.org/wp-content/uploads/2025/03/FOTO-150x150.jpeg",
-    "date": 1741046400000,
-    "link": "https://oporrino.org/o-porrino-presenta-a-programacion-do-8m-baixo-o-lema-8m-365-dias/",
-    "text": "O Concello do Porriño, a través da Concellaría de Igualdade, presentou hoxe na Casa Consistorial a programación de actividades para conmemorar o Día Internacional da Muller. Baixo o lema “8M, 365 días”, o programa deste ano pon o foco na necesidade de reivindicar os…",
-    "source": "oporrino"
-  },
-  {
-    "id": "f2f24f36-2c0a-4719-9fbc-24e94901d2f1",
+    "id": "46e58e66-bdd9-4892-9d90-d211458b2ac1",
     "title": "A Xunta de Goberno Local tratará 30 asuntos na súa sesión ordinaria desta semana",
     "image": "https://ourense.gal/media/news/La_Junta_de_Gobierno_Local_tratar%C3%A1_ma%C3%B1ana_30_asuntos_en_su_sesi%C3%B3n_ordinaria_de_est_q9WD4Fr.apng",
     "date": 1741737600000,
@@ -2322,7 +2349,7 @@
     "source": "ourense"
   },
   {
-    "id": "a401f333-9765-44ae-b3db-50043cba0e5f",
+    "id": "c4c04c52-7af7-4c82-a266-dabe5667e3dc",
     "title": "Alcalde e representantes de todos os grupos políticos municipais gardan un minuto de silencio en memoria das vítimas do terrorismo",
     "image": "https://ourense.gal/media/news/Alcalde_y_representantes_de_todos_los_grupos_pol%C3%ADticos_municipales_guardan_un_minu_q6Ji5Js.jpeg",
     "date": 1741651200000,
@@ -2331,7 +2358,7 @@
     "source": "ourense"
   },
   {
-    "id": "025e524c-2db4-455f-a2e1-7ca10f04c935",
+    "id": "8f3dd61f-4617-4aeb-945b-e3b990edf7e4",
     "title": "O Concello organizará o ano próximo un festival de música folk que reforzará a programación da Festa dos Maios",
     "image": "https://ourense.gal/media/news/El_Ayuntamiento_organizar%C3%A1_el_a%C3%B1o_pr%C3%B3ximo_un_festival_de_m%C3%BAsica_folk_que_reforzar%C3%A1_c52VnXJ.apng",
     "date": 1741651200000,
@@ -2340,7 +2367,7 @@
     "source": "ourense"
   },
   {
-    "id": "c23525fa-a2ed-4f1e-afde-00d6963745b5",
+    "id": "a2bfcb8b-781d-4e9a-b668-7d540cb0d0ab",
     "title": "A concelleira de Igualdade visita a ONCE para explorar vías de colaboración entre o Concello e a entidade social",
     "image": "https://ourense.gal/media/news/La_concejala_de_Igualdad_visita_la_ONCE_para_explorar_v%C3%ADas_de_colaboraci%C3%B3n_entre_e_zVDXfzi.jpeg",
     "date": 1741564800000,
@@ -2349,7 +2376,7 @@
     "source": "ourense"
   },
   {
-    "id": "45727f3f-4117-412c-9d19-9934e6b2baca",
+    "id": "c6c241c5-4f26-40fb-a616-403f83440805",
     "title": "O goberno municipal cualifica de “aldraxe” o “descafeinado” proxecto da Xunta para conectar a N-525 coa Avenida de Zamora",
     "image": "https://ourense.gal/media/news/El_gobierno_municipal_califica_de_aldraxe_el_descafeinado_proyecto_de_la_Xunta_par_RWtXCtn.apng",
     "date": 1741564800000,
@@ -2358,7 +2385,7 @@
     "source": "ourense"
   },
   {
-    "id": "d4a666ab-ca14-42e7-be17-c4e8a15b1c56",
+    "id": "ea9f9f27-ddcd-4657-8d4c-0c6a321041f6",
     "title": "A carreira da Muller percorreu as rúas da cidade para celebrar o 8M",
     "image": "https://ourense.gal/media/news/La_carrera_de_la_Mujer_recorri%C3%B3_las_calles_de_la_ciudad_para_celebrar_el_8M_2025-03-10.jpeg",
     "date": 1741564800000,
@@ -2367,7 +2394,7 @@
     "source": "ourense"
   },
   {
-    "id": "0c4a5897-8358-4c4e-b2c1-f85e12855e13",
+    "id": "3970691c-a7fe-410d-852e-f49ceea0b7dc",
     "title": "O Servizo de Extinción de Incendios do Concello de Ourense celebrou a festividade do seu patrón",
     "image": "https://ourense.gal/media/news/El_Servicio_de_Extinci%C3%B3n_de_Incendios_del_Ayuntamiento_de_Ourense_celebr%C3%B3_la_festiv_9aFNzRx.mpo",
     "date": 1741564800000,
@@ -2376,7 +2403,7 @@
     "source": "ourense"
   },
   {
-    "id": "282c58ab-ab3a-4d5a-ab03-061d924f0708",
+    "id": "4a18b4b2-a912-4dc4-bdc3-e446a045625b",
     "title": "O Concello celebra o Día Internacional das Mulleres (8M) cunha programación de actividades en marzo e abril",
     "image": "https://ourense.gal/media/news/El_Ayuntamiento_celebra_el_D%C3%ADa_Internacional_de_las_Mujeres_8M_2025_con_una_progra_ZC5p1aT.apng",
     "date": 1741305600000,
@@ -2385,20 +2412,11 @@
     "source": "ourense"
   },
   {
-    "id": "193eec4d-30f6-4f35-a1de-537460b411c6",
+    "id": "dfbf4d1b-fba0-41b6-8554-e5434baa85e5",
     "title": "A Xunta de Goberno Local aprobou 9 acordos na súa sesión ordinaria desta semana",
     "image": "https://ourense.gal/media/news/La_Junta_de_Gobierno_Local_aprob%C3%B3_9_acuerdos_en_su_sesi%C3%B3n_ordinaria_de_esta_semana_1IrTXi6.apng",
     "date": 1741219200000,
     "link": "https://ourense.gal/gl/actualidad/a-xunta-de-goberno-local-aprobou-9-acordos-na-sua-sesion-ordinaria-desta-semana",
-    "text": "-",
-    "source": "ourense"
-  },
-  {
-    "id": "841e4ca3-d7c1-4133-b12a-abe1612e79c4",
-    "title": "O alcalde valora o Entroido 2025 como “o mellor de todos os tempos” e destaca a “impresionante” afluencia de público",
-    "image": "https://ourense.gal/media/news/El_alcalde_valora_el_Carnaval_2025_como_el_mejor_de_todos_los_tiempos_y_destaca_la_SeTlGUn.jpeg",
-    "date": 1741219200000,
-    "link": "https://ourense.gal/gl/actualidad/o-alcalde-valora-o-entroido-2025-como-o-mellor-de-todos-os-tempos-e-destaca-a-impresionante-afluencia-de-publico",
     "text": "-",
     "source": "ourense"
   },
@@ -3384,6 +3402,15 @@
     "source": "padron"
   },
   {
+    "id": 38844,
+    "title": "Activación da rede móbil de nova xeración",
+    "image": "https://portodoson.gal/wp-content/uploads/2025/03/Concello-de-Porto-do-Son-IG-Llega-700-B.webp",
+    "date": 1741870351000,
+    "link": "https://portodoson.gal/activacion-da-rede-mobil-de-nova-xeracion/",
+    "text": "<p>LLEGA 700 infórmanos que nos próximos días vai ter lugar a activación da rede móbil de nova xeración no noso municipio. Se detectan algún tipo de problema na visualización das canles da TDT poden poñerse en contacto co Concello (presencialmente ou a través do 981867412) ou ben con LLEGA 700 a través do teléfono 900 833 999, www.llega700.es ou ayuda@llega700.es</p>\n",
+    "source": "portodoson"
+  },
+  {
     "id": 38792,
     "title": "A hora do Planeta",
     "image": "https://portodoson.gal/wp-content/uploads/2025/03/Concello-de-Porto-do-Son-Hora-do-planeta-scaled.webp",
@@ -3394,7 +3421,7 @@
   },
   {
     "id": 38775,
-    "title": "Porto do Son acolle a obra de teatro &#8216;A Burra, a mesa e o pau&#8217;",
+    "title": "Autobús do teatro &#8216;A Burra, a mesa e o pau&#8217;",
     "image": "https://portodoson.gal/wp-content/uploads/2025/03/Concello-de-Porto-do-Son-IG-Cultura-A-burra-a-mesa-o-pau.webp",
     "date": 1741712448000,
     "link": "https://portodoson.gal/porto-do-son-acolle-a-obra-de-teatro-a-burra-a-mesa-e-o-pau/",
@@ -3507,42 +3534,6 @@
     "date": 1739967976000,
     "link": "https://portodoson.gal/axudas-pel-2025-da-deputacion-da-coruna/",
     "text": "<p>A Deputación da Coruña, no marco do Plan de Emprego Local, ven de convocar as AXUDAS PEL 2025 coas seguintes liñas: As solicitudes presentaranse de xeito telemático, a través da plataforma SUBTeL: https://www.dacoruna.gal/subvencions/ O prazo de presentación estará aberto ata o 17 de marzo, ás 14:00 horas Máis información en: Emprego Deputación https://bop.dacoruna.gal/bopportal/cambioBoletin.do?fechaInput=11/02/2025</p>\n",
-    "source": "portodoson"
-  },
-  {
-    "id": 38554,
-    "title": "Visita carpa informativa &#8216;Agora temos 5 contedores&#8217;",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/PORTO-DO-SON-Visita-carpa-informativa.webp",
-    "date": 1739879978000,
-    "link": "https://portodoson.gal/visita-carpa-informativa-agora-temos-5-contedores/",
-    "text": "<p>O alcalde de Porto do Son, Luis Oujo, xunto ao concelleiro de Deportes e Xuventude, Carlos Lorenzo, visitaron este luns a carpa informativa 𝘼𝙜𝙤𝙧𝙖 𝙩𝙚𝙢𝙤𝙨 𝟱 𝙘𝙤𝙣𝙩𝙚𝙙𝙤𝙧𝙚𝙨, situada na Praza de España. A campaña, que se inicia en Porto do Son, vén promovida pola Mancomunidade Serra do Barbanza e Ecoembes. Nela explicase con detemento a &hellip;</p>\n",
-    "source": "portodoson"
-  },
-  {
-    "id": 38548,
-    "title": "Doazón de sangue en Porto do Son",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/image-png.webp",
-    "date": 1739874832000,
-    "link": "https://portodoson.gal/doazon-de-sangue-en-porto-do-son/",
-    "text": "<p>A unidade móbil de doazón de sangue estará o vindeiro luns, 24 de febreiro, en horario de 16:00 a 21:00 horas, na fachada marítima de Porto do Son, ao carón da lonxa vella. Para doar sangue hai que almozar e despois de xantar esperar 2 horas. Non esqueza traer a tarxeta de doazón, DNI ou documento &hellip;</p>\n",
-    "source": "portodoson"
-  },
-  {
-    "id": 38533,
-    "title": "Aberto o prazo de axudas para as ANPAS da Xunta de Galicia",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/Xunta-de-Galicia-ANPAS-1.webp",
-    "date": 1739793594000,
-    "link": "https://portodoson.gal/aberto-o-prazo-de-axudas-para-as-anpas-da-xunta-de-galicia/",
-    "text": "<p>A Xunta de Galicia ten aberto, ata o 13 de marzo, o prazo para que as Asociacións de Nais e Pais (ANPAS) dos centros educativos soliciten axudas para as súas actividades de promoción da igualdade e de prevención da violencia de xénero entre os escolares, así como actuacións que faciliten a conciliación corresponsable das familias. &hellip;</p>\n",
-    "source": "portodoson"
-  },
-  {
-    "id": 38512,
-    "title": "Obradoiro de Emprego Tahume X",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/OE-Tahume-X-Inicios-1.webp",
-    "date": 1739790959000,
-    "link": "https://portodoson.gal/obradoiro-de-emprego-tahume-x-3/",
-    "text": "<p>O alumnado do OBRADOIRO DE EMPREGO Tahume X iniciou a parte práctica-laboral nas especialidades de Actividades Auxiliares en Conservación e Mellora de Montes e Traballos de Carpintería e Moble. Así, estes primeiros días de prácticas arrancaron con toda a enerxía, ganas e ilusión que supón o primeiro contacto sobre o terreo daquelas ferramentas e maquinarias que van empregar para desenvolver as &hellip;</p>\n",
     "source": "portodoson"
   },
   {
@@ -4016,7 +4007,7 @@
   {
     "id": "2420",
     "title": "SALVATERRA PRESENTA O CAMPUS DE CONCILIACIÓN DE SEMANA SANTA",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2420.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1741737600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2420-no-1499?tmpl=component&print=1",
     "text": "A inscrición, por orde de entrada no rexistro, comeza o 18 e remata o día 24 de marzo. Coa chegada da Semana Santa nos c...",
@@ -4025,7 +4016,7 @@
   {
     "id": "2419",
     "title": "A SEMENTEIRA MÁIS INCLUSIVA",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2419.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1741737600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2419-no-1498?tmpl=component&print=1",
     "text": "A organización Cultural Quinta do Piñeiro ven de anunciar que a edición XVII da festa da Sementeira e Música será más in...",
@@ -4034,7 +4025,7 @@
   {
     "id": "2418",
     "title": "O CONCELLO DE SALVATERRA ORGANIZA UN ANO MÁIS O CAMIÑO DE SANTIAGO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2418.png",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1741737600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2418-no-1497?tmpl=component&print=1",
     "text": "Despois do éxito da pasada edición con preto de 100 participantes, o Concello de Salvaterra de Miño levará cabo Salvater...",
@@ -4043,7 +4034,7 @@
   {
     "id": "2417",
     "title": "Gañadores do XIV Concurso de Slogans",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2417.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1741651200000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2417-no-1496?tmpl=component&print=1",
     "text": "“ROMPE O SILENCIO, CONSTRÚE O RESPECTO” FOI O LEMA GAÑADOR DO XIV CONCURSO DE SLOGANS CONTRA A VIOLENCIA DE XÉNERO. A in...",
@@ -4052,7 +4043,7 @@
   {
     "id": "2416",
     "title": "O CONCELLO DE SALVATERRA DE MIÑO CONMEMORA O 8M CUN ACTO ESPECIAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2416.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1741046400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2416-no-1495?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño quere convidar a toda a cidadanía a un acto especial que se celebrará o próximo venres...",
@@ -4061,7 +4052,7 @@
   {
     "id": "2415",
     "title": "O CONCELLO DE SALVATERRA DE MIÑO ORGANIZA UN OBRADOIRO DE “TEATRO EN IGUALDADE”",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2415.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1740700800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2415-no-1494?tmpl=component&print=1",
     "text": "A Concellería de Igualdade do Concello de Salvaterra de Miño anuncia para o mes de marzo a celebración dun taller de tea...",
@@ -4070,7 +4061,7 @@
   {
     "id": "2414",
     "title": "O CONCELLO DE SALVATERRA PON EN MARCHA UN SISTEMA DE ACCESO AUTÓNOMO NA BIBLIOTECA MUNICIPAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2414.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1740700800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2414-no-1493?tmpl=component&print=1",
     "text": "A Biblioteca Municipal de Salvaterra de Miño conta xa cun sistema de acceso autónomo a través de tarxeta que permitirá ó...",
@@ -4079,7 +4070,7 @@
   {
     "id": "2413",
     "title": "AVANZAN A BO RITMO AS OBRAS DE ACONDICIONAMENTO DE VESTIARIOS NO CAMPO DE FÚTBOL DO OURAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2413.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1740355200000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2413-no-1492?tmpl=component&print=1",
     "text": "A Alcaldesa de Salvaterra de Miño, Marta Valcárcel, o concelleiro de Obras, Ernesto Groba, e o concelleiro de deportes,...",
@@ -4088,7 +4079,7 @@
   {
     "id": "2411",
     "title": "ALUMNADO DO IES SALVATERRA DE MIÑO PARTICIPA NUNHA PLANTACIÓN EN VILACOBA DENTRO DO PROXECTO MONTE VIVO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2411.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1740096000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2411-no-1490?tmpl=component&print=1",
     "text": "O pasado mércores 19 de febreiro o IES Salvaterra de Miño en colaboración co Concello de Salvaterra de Miño, a ANPA, a C...",
@@ -4097,7 +4088,7 @@
   {
     "id": "2410",
     "title": "SALVATERRA DE MIÑO PREPÁRASE PARA O ENTROIDO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2410.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739836800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2410-no-1489?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño xa está preparado para dar a benvida ó Entroido do 2024. Como xa ben sendo habitual as...",
@@ -4106,7 +4097,7 @@
   {
     "id": "2409",
     "title": "O CONCELLO DE SALVATERRA DE MIÑO ORGANIZA UN ANO MÁIS UN CURSO DE DEFENSA PERSOAL PARA MULLERES",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2409.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739750400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2409-no-1488?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño organiza para o mes de marzo un curso de defensa persoal para mulleres. A finalidade é...",
@@ -4115,7 +4106,7 @@
   {
     "id": "2408",
     "title": "CONTINÚAN AS OBRAS DE REHABILITACIÓN DA ANTIGA CASA DA SOCIEDADE EN FORNELOS",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2408.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739318400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2408-no-1487?tmpl=component&print=1",
     "text": "A Alcaldesa de Salvaterra de Miño, xunto co Concelleiro de obras e o presidente da Comunidade de Montes de Fornelos supe...",
@@ -4124,7 +4115,7 @@
   {
     "id": "2407",
     "title": "AVANZAN AS OBRAS DE MELLORA NOS VESTIARIOS DAS INSTALACIÓNS DEPORTIVAS DO CASAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2407.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739318400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2407-no-1486?tmpl=component&print=1",
     "text": "Continúan a bo ritmo as obras de mellora nos vestiarios e almacéns das Instalacións Deportivas de O Casal, financiadas a...",
@@ -4133,7 +4124,7 @@
   {
     "id": "2406",
     "title": "REFORMA INTEGRAL NO PARQUE INFANTIL DA CASA DE CULTURA DE SALVATERRA.",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2406.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739145600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2406-no1485?tmpl=component&print=1",
     "text": "SALVATERRA DE MIÑO FARÁ UNHA REFORMA INTEGRAL, CREANDO UN ESPAZO TOTALMENTE NOVO, NO PARQUE INFANTIL DA CASA DE CULTURA...",
@@ -4142,7 +4133,7 @@
   {
     "id": "2405",
     "title": "SALVATERRA OFRECE UN OBRADOIRO DE USO DE MÓBILES PARA MAIORES",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2405.png",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739145600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2405-no-1484?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño organiza en colaboración coa asociación Secot unha formación para aprender a utilizar o...",
@@ -4151,7 +4142,7 @@
   {
     "id": "2404",
     "title": "PROGRAMA DE ACTIVACIÓN DE EMPREGO 2025",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2404.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1739145600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2404-no-1483?tmpl=component&print=1",
     "text": "Todas aquelas persoas interesadas no PROGRAMA DE ACTIVACIÓN DE EMPREGO 2025 do Plan + Provincia da Deputación de Ponteve...",
@@ -4160,7 +4151,7 @@
   {
     "id": "2403",
     "title": "En funcionamento o saneamento do barrio de Enxembre",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2403.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1738886400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2403-no-1482?tmpl=component&print=1",
     "text": "Coas últimas obras eléctricas o Concello de Salvaterra de Miño pon en funcionamento o bombeo de Enxembre que xunto o tra...",
@@ -4169,7 +4160,7 @@
   {
     "id": "2402",
     "title": "Obras asfaltado en Coto - Oleiros.",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2402.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1738886400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2402-no-1481?tmpl=component&print=1",
     "text": "Asfaltado en dous camiños municipais no Coto, na parroquia de Oleiros. Obras enmarcadas dentro do proxecto de Mellora de...",
@@ -4178,7 +4169,7 @@
   {
     "id": "2401",
     "title": "ÉXITO NA PRIMEIRA FIN DE SEMANA DO CICLO CINE DE INVERNO EN SALVATERRA DE MIÑO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2401.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1738540800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2401-no-1480?tmpl=component&print=1",
     "text": "Esta pasada fin de semana deu comezo a 5ª edición do Ciclo Cine de Inverno que organiza o Concello de Salvaterra de Miño...",
@@ -4187,7 +4178,7 @@
   {
     "id": "2399",
     "title": "ARRANCA O 5º CICLO DE CINE DE INVERNO EN SALVATERRA DE MIÑO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2399.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1737590400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2399-no-1479?tmpl=component&print=1",
     "text": "Dende a Concellería de Cultura preséntase a 5ª edición do Ciclo Cine de Inverno que se celebrará durante o vindeiro mes...",
@@ -4196,7 +4187,7 @@
   {
     "id": "2397",
     "title": "Mellora nas instalacións deportivas \"A Canuda\"",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2397.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1737504000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2397-no-1478?tmpl=component&print=1",
     "text": "O CONCELLO DE SALVATERRA DE MIÑO MELLORARÁ AS INSTALACIÓNS DEPORTIVAS DA CANUDA A TRAVÉS DO II PLAN EXTRAORIDINARIO DE I...",
@@ -4205,7 +4196,7 @@
   {
     "id": "2396",
     "title": "ENTERRO DA LAMPREA 2025",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2396.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1737417600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2396-no-1477?tmpl=component&print=1",
     "text": "ÁBRESE O PRAZO DE INSCRICIÓN PARA PARTICIPAR NO ENTERRO DA LAMPREA 2025. O Concello de Salvaterra de Miño anuncia que de...",
@@ -4214,7 +4205,7 @@
   {
     "id": "2395",
     "title": "ARRANCA O 5º CICLO DE CINE DE INVERNO EN SALVATERRA DE MIÑO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2395.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1737331200000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2395-no-1476?tmpl=component&print=1",
     "text": "Dende a Concellería de Cultura preséntase a 5ª edición do Ciclo Cine de Inverno que se celebrará durante o vindeiro mes...",
@@ -4223,7 +4214,7 @@
   {
     "id": "2393",
     "title": "SALVATERRA DE MIÑO CONTRATARÁ 17 PERSOAS AO ABEIRO DO PLAN MÁIS PROVINCIA DA DEPUTACIÓN PROVINCIAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2393.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1737072000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2393-no-1474?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño ven de solicitar, a través da liña 3 de emprego do Plan Máis Provincia 2025, da Deputac...",
@@ -4232,7 +4223,7 @@
   {
     "id": "2391",
     "title": "SISTEMA DE ACCESO AUTÓNOMO PARA A BIBLIOTECA",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2391.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1705708800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2391-no-1472?tmpl=component&print=1",
     "text": "A BIBLIOTECA MUNICIPAL DE SALVATERRA REXISTRA MÁIS DE 800 USUARIOS EN NOVEMBRO E TRABALLA XA NUN SISTEMA DE ACCESO AUTÓN...",
@@ -4241,7 +4232,7 @@
   {
     "id": "2390",
     "title": "PLAN DE IGUALDADE CONCELLO DE SALVATERRA",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2390.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1705708800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2390-no-1471?tmpl=component&print=1",
     "text": "O PLENO DA CORPORACIÓN DO CONCELLO DE SALVATERRA DE MIÑO APROBA O III PLAN DE IGUALDADE DE MULLERES E HOMES DO CONCELLO...",
@@ -4250,7 +4241,7 @@
   {
     "id": "2387",
     "title": "Rematadas as obras en Regueiras-As Santas (Oleiros)",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2387.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1705104000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2387-no-1468?tmpl=component&print=1",
     "text": "REMATADA A ANUALIDADE 2024 DA OBRA DE MELLORA EN REGUEIRAS E AS SANTAS (OLEIROS) FINANCIADA A TRAVÉS DO PLAN CAMIÑOS 202...",
@@ -4259,7 +4250,7 @@
   {
     "id": "2385",
     "title": "PROGRAMA DE TERMALISMO SOCIAL DO IMSERSO 2025",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2385.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1704844800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2385-no-1466?tmpl=component&print=1",
     "text": "Consulte aquí o programa.",
@@ -4268,7 +4259,7 @@
   {
     "id": "2383",
     "title": "COMEZAN AS OBRAS DE RECUPERACIÓN DO ESPAZO PARA USO PEONIL NA RÚA FORCA POR UN IMPORTE DE MÁIS DE 540.000€",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2383.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1704153600000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2383-no-1464?tmpl=component&print=1",
     "text": "A Alcaldesa de Salvaterra de Miño, Marta Valcárcel, xunto ó Concelleiro de Obras, Ernesto Groba, supervisan o inicio das...",
@@ -4277,7 +4268,7 @@
   {
     "id": "2370",
     "title": "Recuperación entorno Capela de San Roque de Cabreira",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2370.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1732060800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2370-no-1451?tmpl=component&print=1",
     "text": "A XUNTA DE GOBERNO LOCAL DO CONCELLO DE SALVATERRA DE MIÑO APROBA A SOLICITUDE PARA PRESENTAR Á CONVOCATORIA DO PLAN EXT...",
@@ -4286,7 +4277,7 @@
   {
     "id": "2369",
     "title": "Obras no Pavillón Cándido Carrera",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2369.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1731974400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2369-no-1450?tmpl=component&print=1",
     "text": "COMEZAN AS OBRAS DE INSTALACIÓN FOTOVOLTAICA E SUBSTITUCIÓN DE LUMINARIAS NO PAVILLÓN MUNICIPAL CÁNDIDO CARRERA. A obra,...",
@@ -4295,7 +4286,7 @@
   {
     "id": "2367",
     "title": "PROGRAMA DE TURISMO DO IMSERSO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2367.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1731974400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2367-no-1448?tmpl=component&print=1",
     "text": "Novo prazo de presentación de solicitudes para participar no Programa de Turismo do Imserso na tempada 2024-2025. Finali...",
@@ -4304,7 +4295,7 @@
   {
     "id": "2365",
     "title": "SALVATERRA DE MIÑO REMATA A INTALACIÓN DE MÁIS DE 200 CONTADORES INTELIXENTES",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2365.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1731888000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2365-no-1446?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño ven de rematar coa instalación de 247 novos contadores intelixentes, por un importe de...",
@@ -4313,7 +4304,7 @@
   {
     "id": "2359",
     "title": "A BIBLIOTECA MUNICIPAL DE SALVATERRA REXISTRA MÁIS DE 700 USUARIOS DURANTE O MES DE OUTUBRO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2359.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1731456000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2359-no-1440?tmpl=component&print=1",
     "text": "O horario de atención é de luns a venres de 09:00 a 14:00 e de 16:00 a 20:00 horas e os sábados de 09:00 a 14:00 horas....",
@@ -4322,7 +4313,7 @@
   {
     "id": "2350",
     "title": "EN MARCHA O III PLAN DE IGUALDADE DE OPORTUNIDADES DE MULLERES E HOMES NO CONCELLO DE SALVATERRA DE MIÑO",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2350.png",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1730678400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2350-no-1431?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño pon en marcha o proceso de elaboración do III Plan Municipal de igualdade co obxectivo...",
@@ -4331,7 +4322,7 @@
   {
     "id": "2347",
     "title": "O CONCELLO DE SALVATERRA DE MIÑO REÚNESE CO EQUIPO DA UNIVERSIDADE DE SANTIAGO QUE REALIZARÁ O TRABALLO DE EXHUMACIÓN NO CEMITERIO DE CABREIRA",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2347.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1729468800000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2347-no-1428?tmpl=component&print=1",
     "text": "O traballo de investigación parte da Comisión pola Memoria Histórica do Baixo Miño, Condado e Louriña que aportaba datos...",
@@ -4340,7 +4331,7 @@
   {
     "id": "2343",
     "title": "AS PERSOAS MAIORES DE 65 ANOS XA PODEN RECOLLER NO CONCELLO DE SALVATERRA O SEU DETECTOR DE FUME",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2343.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1728950400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2343-no-1424?tmpl=component&print=1",
     "text": "As interesadas tan só deberán achegarse ó Concello de Salvaterra de Miño para recoller o detector de fume que se lles en...",
@@ -4349,7 +4340,7 @@
   {
     "id": "2342",
     "title": "SALVATERRA DE MIÑO SACA A LICITACIÓN OBRAS DE MELLORAS DE VIAIS POR UN IMPORTE DE 474.345,72€ NUNHA ACTUACIÓN QUE ALCANZA MÁIS DE 6KM",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2342.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1728864000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2342-no-1423?tmpl=component&print=1",
     "text": "O Concello de Salvaterra de Miño abre o proceso de licitación para a mellora de 24 viais no termo municipal, financiados...",
@@ -4358,7 +4349,7 @@
   {
     "id": "2339",
     "title": "INICIANSE AS OBRAS DE REFORMA DA RÚA MIÑO EN SALVATERRA CUN INVESTIMENTO DE PRETO DE 500.000€",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2339.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1728518400000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2339-no-1420?tmpl=component&print=1",
     "text": "- A delegada territorial, Ana Ortiz, e a alcaldesa, Marta Valcárcel, visitaron este mércores a zona que será obxecto de...",
@@ -4367,7 +4358,7 @@
   {
     "id": "2332",
     "title": "O CONCELLO DE SALVATERRA COLABORA UN ANO MÁIS CO MÓDULO DE CARPINTARÍA NA DECORACIÓN DO NADAL",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2332.jpeg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1728000000000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2332-no-1413?tmpl=component&print=1",
     "text": "Esta semana a concelleira de Educación, Lorena Soto, mantivo unha reunión co profesorado e alumnado do módulo de Carpint...",
@@ -4376,14 +4367,14 @@
   {
     "id": "2327",
     "title": "SANEAMENTO EN CANTALARRANA E OS LAMEIROS",
-    "image": "https://www.concellodesalvaterra.com/tmp/thumb_192_2327.jpg",
+    "image": "https://www.concellodesalvaterra.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "date": 1727827200000,
     "link": "https://www.concellodesalvaterra.com/46-noticias-portada/2327-no-1408?tmpl=component&print=1",
     "text": "O CONCELLO DE SALVATERRA SACA A CONTRATACIÓN OBRAS DE SANEAMENTO EN CANTALARRANA E OS LAMEIROS POR UN IMPORTE DE 57.634,...",
     "source": "salvaterra"
   },
   {
-    "id": "c6006b56-9638-4796-8395-7a92c1497dc3",
+    "id": "9773402b-98ee-4178-9204-c8a021d528a2",
     "title": "Xornada de portas abertas na EDAR de Guillarei O Consorcio...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-xornada-portas-abertas-edar_1.jpg?itok=rxY9VHwg",
     "date": 1741737600000,
@@ -4392,7 +4383,7 @@
     "source": "tui"
   },
   {
-    "id": "d0a64aad-3ca3-4523-bc00-f022459daff4",
+    "id": "7b5d2084-d05a-4219-956d-d75d909fde77",
     "title": "O equipo de goberno reunirase coa veciñanza das parroquias para...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-reunions-parroquias-2025.jpg?itok=5ryuJihd",
     "date": 1741737600000,
@@ -4401,7 +4392,7 @@
     "source": "tui"
   },
   {
-    "id": "721bacd6-731d-437f-a9c5-f3d07004746b",
+    "id": "f6aa37e6-a4ee-4c97-9e19-cffc506b2b8a",
     "title": "O tudense Diego Alfonsín presenta a súa nova novela “Birken”",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-birken.jpg?itok=p6r8SjT8",
     "date": 1741737600000,
@@ -4410,7 +4401,7 @@
     "source": "tui"
   },
   {
-    "id": "f408fbe7-a020-42be-aa5b-a5089fdf7eed",
+    "id": "a73bd29d-4b05-4552-96b6-93864cfe86ee",
     "title": "Encontro en Tui con Ivonete da Silva dentro da programación do...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-acto-8m-feminismo-de-barrio.jpg?itok=aCSvfdJX",
     "date": 1741651200000,
@@ -4419,7 +4410,7 @@
     "source": "tui"
   },
   {
-    "id": "ad012afb-0e34-4262-aaa5-6f1767c2e9a6",
+    "id": "092f4837-dbd2-49a7-b308-39d42bdbd943",
     "title": "Paseo literario por Tui sobre a figura de Manuel Lago González",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui.web-cenentario-paseo-manuel-lago.jpg?itok=Bn4idyaf",
     "date": 1741651200000,
@@ -4428,7 +4419,7 @@
     "source": "tui"
   },
   {
-    "id": "41f9d0e7-3a8a-476f-baf9-999899ed8319",
+    "id": "bf9786a3-a6e1-4d8a-b0bc-3ac3e0a35ba5",
     "title": "O Teatro Municipal de Tui acolle este venres “As Desterradas”,...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-as-desterradas.jpg?itok=QTTORwEu",
     "date": 1741564800000,
@@ -4437,7 +4428,7 @@
     "source": "tui"
   },
   {
-    "id": "6e8ebcdc-bc92-46e4-b7e5-8f1679fe6503",
+    "id": "7e110882-755a-4c3e-9006-62e898090f2d",
     "title": "O Concello de Tui reafirma o seu compromiso en seguir...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-acto-8m.png?itok=dtKTWo88",
     "date": 1741478400000,
@@ -4446,7 +4437,7 @@
     "source": "tui"
   },
   {
-    "id": "df19ff0b-22b8-4bd6-a92d-20170ea40554",
+    "id": "d4bf410c-72cc-4cf7-9207-bc7e6e841f2c",
     "title": "O Concello de Tui e a RAG lembran a Manuel Lago González e o...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-manuel-lago-venres-07032025.jpg?itok=R1V_4GwI",
     "date": 1741305600000,
@@ -4455,7 +4446,7 @@
     "source": "tui"
   },
   {
-    "id": "91e7fe14-9181-4b66-8c32-f447a43f57a9",
+    "id": "6e1ceb33-8e94-4a15-a902-d174512cce56",
     "title": "Tui despide o Entroido este domingo co Enterro do Bacallau",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-enterro-bacallau.jpg?itok=b7gPz6zy",
     "date": 1741305600000,
@@ -4464,7 +4455,7 @@
     "source": "tui"
   },
   {
-    "id": "dbbed904-8408-47e8-833d-be3ffac2a2d5",
+    "id": "93b0c8cc-0088-4334-8cd1-9d5170b500e6",
     "title": "Recoñecemento ao papel das mulleres, música e poesía para...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-8m-2025.png?itok=SMDTsOLl",
     "date": 1741305600000,
@@ -4473,7 +4464,7 @@
     "source": "tui"
   },
   {
-    "id": "9f3e6503-a92b-4d3b-ba35-c623984313e6",
+    "id": "21551ddb-4022-440d-8807-250327a557c6",
     "title": "Galitoon presenta este venres en Tui “Facendo o indio”",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-galitoon-facendo-o-indio.png?itok=PONRJBuG",
     "date": 1741132800000,
@@ -4482,7 +4473,7 @@
     "source": "tui"
   },
   {
-    "id": "105b9a25-f634-437e-8b5a-7049f96fe933",
+    "id": "e68b90b8-24a5-45c7-893f-7577959116eb",
     "title": "Tui lembra a figura de Manuel Lago González, o arcebispo poeta",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui.web-cenentario-manuel-lago.jpg?itok=KkiBS0X9",
     "date": 1741132800000,
@@ -4734,57 +4725,57 @@
     "source": "xinzodelimia"
   },
   {
+    "id": "010673",
+    "title": "Xosé Merelles destaca el incremento del 5% en viajeros alojados en los 171 campings gallegos durante 2024",
+    "image": "https://www.xunta.gal/documents/35297/1634279/20250313+NPGalaC%C3%A1mpings.jpeg?version=1.0&imageThumbnail=2\n",
+    "date": 1741869180000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010673/xose-merelles-destaca-incremento-del-5-viajeros-alojados-los-171-campings-gallegos",
+    "text": "El director de Turismo de Galicia inauguró esta mañana la I Gala de Cámpings de Galicia",
+    "source": "xunta"
+  },
+  {
+    "id": "010671",
+    "title": "La Xunta destaca que la nueva edición de la Guía de Peritos Xudiciais e Mediadores ayudará a agilizar el trabajo de los juzgados gallegos",
+    "image": "https://www.xunta.gal/documents/35297/1634279/20250313GuiaUnionProfesionalGalicia+%282%29.jpeg?version=1.0&imageThumbnail=2\n",
+    "date": 1741866660000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010671/xunta-destaca-que-nueva-edicion-guia-peritos-xudiciais-mediadores-ayudara-agilizar",
+    "text": "El conselleiro de Presidencia, Justicia y Deportes se reúne con representantes de la Unión Profesional de Galicia, que le presentaron la nueva edición de la 'Guía de Peritos Xudiciais e Mediadores de Galicia'",
+    "source": "xunta"
+  },
+  {
+    "id": "010670",
+    "title": "Medio Rural apuesta por impulsar la I+D+i en el campo en la 2ª jornada del Foro de Innovación productiva de este sector",
+    "image": "https://www.xunta.gal/documents/35297/1634279/20250313_Alemparte_Xornada_Ribadumia.jpg?version=1.0&imageThumbnail=2\n",
+    "date": 1741865580000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010670/medio-rural-apuesta-por-impulsar-idi-campo-jornada-del-foro-innovacion-productiva",
+    "text": "El director de la Axencia Galega da Calidade Alimentaria participó esta mañana en Ribadumia en la inauguración de este evento, centrado en el ámbito vitivinícola",
+    "source": "xunta"
+  },
+  {
+    "id": "010668",
+    "title": "La Xunta unifica en una misma convocatoria dotada con más de 14M€ las ayudas a los ayuntamientos rurales para la contratación de personas desempleadas",
+    "image": "https://www.xunta.gal/documents/35297/1634279/210520+bosque+galego_fraga+09av.jpg?version=1.0&imageThumbnail=2\n",
+    "date": 1741864140000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010668/xunta-unifica-una-misma-convocatoria-dotada-con-mas-14m-las-ayudas-los-ayuntamientos",
+    "text": "El DOG publica hoy la orden de estas aportaciones Aprol rural que se fusionan con los apoyos a la contratación de personas perceptoras de la Renta de Integración Social de Galicia (Risga) atendiendo a los cambios de los últimos años y a la demanda de ambas líneas",
+    "source": "xunta"
+  },
+  {
+    "id": "010657",
+    "title": "La Xunta promueve el emprendimiento femenino en la comarca del Salnés a través de herramientas clave como lo Por el de Vilanova de Arousa",
+    "image": "https://www.xunta.gal/documents/35297/1634276/20250312SXERLEmprendeSalnes3.jpg?version=1.0&imageThumbnail=2\n",
+    "date": 1741809720000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010657/xunta-promueve-emprendimiento-femenino-comarca-del-salnes-traves-herramientas",
+    "text": "El secretario xeral de Emprego e Relacións Laborais, Pablo Fernández, cerró esta tarde la tercera edición del foro 'O Salnés emprende con M' organizado por la Mancomunidad del Salnés y el Centro de Información a la Mujer (CIM) de la comarca",
+    "source": "xunta"
+  },
+  {
     "id": "010666",
     "title": "Lorenzana anuncia que el Plan director de la automoción será aprobado definitivamente en el Consello da Xunta del próximo lunes",
     "image": "https://www.xunta.gal/documents/35297/1634276/12032025+LorenzanaSalonAutomobilVigo.jpg?version=1.0&imageThumbnail=2\n",
     "date": 1741804320000,
     "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010666/lorenzana-anuncia-que-plan-director-automocion-sera-aprobado-definitivamente",
     "text": "Apunta que recoge ayudas de 234 M€ de los cuales 75 M€ son apoyos directos de fondos propios de la Xunta para todas las empresas que conforman la cadena de valor del sector en Galicia",
-    "source": "xunta"
-  },
-  {
-    "id": "010664",
-    "title": "Mar iniciará en primavera la pavimentación de la explanada del puerto deportivo de Viveiro y la sustitución de las luminarias por dispositivos led",
-    "image": "https://www.xunta.gal/documents/35297/1634276/20250312VillaresReuni%C3%B3nAlcaldesaViveiro+%283%29.jpeg?version=1.0&imageThumbnail=2\n",
-    "date": 1741803300000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010664/mar-iniciara-primavera-pavimentacion-explanada-del-puerto-deportivo-viveiro-sustitucion",
-    "text": "El conselleiro avanza a la regidora municipal que estas dos actuaciones cuentan con una inversión que supera los 215.300 euros y traslada el compromiso de la Xunta para acometer el saneamiento y urbanización de la zona portuaria",
-    "source": "xunta"
-  },
-  {
-    "id": "010662",
-    "title": "López Campos destaca que con la recuperación del Teatro Fraga la Xunta cumple con la demanda ciudadana de una programación cultural de calidad en Vigo",
-    "image": "https://www.xunta.gal/documents/35297/1634276/250312_cultura_pleno_01av.jpg?version=1.0&imageThumbnail=2\n",
-    "date": 1741802220000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010662/lopez-campos-destaca-que-con-recuperacion-del-teatro-fraga-xunta-cumple-con-demanda",
-    "text": "El responsable de Cultura pone en valor que, transcurrido menos de un año de su adquisición junto con la Diputación de Pontevedra, ya se tienen perfilados los contenidos",
-    "source": "xunta"
-  },
-  {
-    "id": "010660",
-    "title": "Gómez Caamaño reafirma el compromiso de evaluar las urgencias en Moaña cuando se ponga en servicio el nuevo centro de salud, teniendo en cuenta la mejor asistencia sanitaria y la opinión de los profesionales",
-    "image": "https://www.xunta.gal/documents/35297/1634276/250312_sanidade_pleno_03av.jpg?version=1.0&imageThumbnail=2\n",
-    "date": 1741801500000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010660/gomez-caamano-reafirma-compromiso-evaluar-las-urgencias-moana-cuando-ponga-servicio",
-    "text": "Asegura que la atención sanitaria a los vecinos está siempre plenamente garantizada y que ninguna urgencia en Moaña queda sin atender",
-    "source": "xunta"
-  },
-  {
-    "id": "010659",
-    "title": "Ángeles Vázquez lamenta que la ciudadanía de A Coruña pague las consecuencias de la mala gestión de residuos del Gobierno municipal",
-    "image": "https://www.xunta.gal/documents/35297/1634276/20250312+AVMPleno.jpg?version=1.0&imageThumbnail=2\n",
-    "date": 1741801140000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010659/angeles-vazquez-lamenta-que-ciudadania-coruna-pague-las-consecuencias-mala-gestion",
-    "text": "La conselleira censura que el Ayuntamiento no implantara la recogida selectiva de envases ligeros a pesar de las reiteradas advertencias de la Xunta, lo que finalmente supuso la incoación de un expediente sancionador con una posible multa de hasta 100.000 euros",
-    "source": "xunta"
-  },
-  {
-    "id": "010658",
-    "title": "El Igafa obtiene la homologación de la IMCA para su formación en buceo abriendo nuevas oportunidades laborales para su alumnado en otros países",
-    "image": "https://www.xunta.gal/documents/35297/1634276/20250312VillaresVisitaIgafa+%283%29.JPG?version=1.0&imageThumbnail=2\n",
-    "date": 1741800240000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010658/igafa-obtiene-homologacion-imca-para-formacion-buceo-abriendo-nuevas-oportunidades",
-    "text": "El conselleiro do Mar señala este hito como aval de los rigurosos estándares y calidad educativa de los centros de formación marítimo pesquera autonómicos así como de la excelente capacitación con la sale el alumnado al mercado laboral",
     "source": "xunta"
   }
 ]
