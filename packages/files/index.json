@@ -1,6 +1,6 @@
 [
   {
-    "id": "09ef800a-35bf-4f29-b2cc-00b23b2c119c",
+    "id": "2c68e3fa-aadd-4d61-a217-097e493038b6",
     "title": "El Alcalde y la Asociación “Cañiza Felina” firmaron ayer el convenio de colaboración para gestionar las colonias felinas",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/c1ed10f1-72c4-4e1c-8f83-c073421fb8b7.jpeg?itok=H0FpBOzC",
     "date": 1742256000000,
@@ -9,7 +9,7 @@
     "source": "acaniza"
   },
   {
-    "id": "73d6ddf6-7847-4ec2-a1e1-2d0ed3d96a19",
+    "id": "1d4002c9-51c8-4b2b-9bf4-b716aa917c83",
     "title": "El Alcalde Luis Piña visitó esta mañana al alumnado del proyecto «Dixigal» que finalizará el 26 de marzo.",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/8314a6ca-dbc8-4778-90dc-bbc2a4e3c465.jpeg?itok=jRYjqpGD",
     "date": 1742169600000,
@@ -18,7 +18,7 @@
     "source": "acaniza"
   },
   {
-    "id": "256f27b7-1684-48e5-b73c-a35ea48c50b5",
+    "id": "fbc484c0-e86a-4116-a447-f374b097447f",
     "title": "El Ayuntamiento de A Cañiza consigue una ayuda de 700.000,00€ de la Diputación Provincial para el proyecto de humanización de la calle ANTONIO FACORRO",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/CA%C3%91IZA2_COCHESMODF_0.jpg?itok=7Z24qdWN",
     "date": 1741737600000,
@@ -27,7 +27,7 @@
     "source": "acaniza"
   },
   {
-    "id": "a8480af9-4fbf-41aa-a3bc-56158184d62e",
+    "id": "7f89891f-5d61-4125-970a-37ae73877904",
     "title": "Comienzan los preparativos para celebrar una nueva edición de la «SESTELO CLÁSICA ÁLVARO PINO». 25 de mayo de 2025",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_0922.jpg?itok=rYoNDLzn",
     "date": 1741564800000,
@@ -36,7 +36,7 @@
     "source": "acaniza"
   },
   {
-    "id": "f5cb7bc8-4866-496a-921f-55f4ef0ca4c6",
+    "id": "fc585357-eb9a-4058-88ab-f5cddb8898ad",
     "title": "8 de Marzo. Día Internacional de la Mujer. Actividades programadas por el Ayuntamiento y Declaración Institucional de la FEGAMP",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/cartel%20actividades%208marzo%202025%20-%20copia.jpg?itok=sWOH5zyx",
     "date": 1741305600000,
@@ -45,7 +45,7 @@
     "source": "acaniza"
   },
   {
-    "id": "eaf5b053-de52-4231-b1f8-94aade7edede",
+    "id": "5c37b252-5b37-4f74-9f9f-83a138e01f5a",
     "title": "A Cañiza contará con el nuevo servicio de oficinas móviles de la Policía para el rural",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/97f3614e-dc3a-4dd1-a3e7-932b3a9c7bb0.JPG?itok=EssPunkD",
     "date": 1741305600000,
@@ -54,7 +54,7 @@
     "source": "acaniza"
   },
   {
-    "id": "c5ecf3ab-0860-4129-ba8d-ec385f589705",
+    "id": "142c5f39-1862-4fce-b7aa-c2c44263c38d",
     "title": "Comenzamos el mes de marzo con la «4ª  campaña municipal de trampeo contra la avispa velutina»",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/51350a82-c504-40e5-8782-461ca45fa00e.JPG?itok=Q6MfhVE3",
     "date": 1741219200000,
@@ -63,7 +63,7 @@
     "source": "acaniza"
   },
   {
-    "id": "8f7def17-7296-492e-acf2-9232bda5def9",
+    "id": "5e5e6735-4c62-4e89-a516-6039174fe6d8",
     "title": "A Cañiza y el Colegio de Arquitectos de Galicia rinden homenaje a Rita Fernández Queimadelos, una arquitecta pionera gallega que a partir de hoy da nombre a la Plaza del Mercado",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_1170.jpg?itok=Dew3-vqA",
     "date": 1741132800000,
@@ -72,7 +72,7 @@
     "source": "acaniza"
   },
   {
-    "id": "6eb9a21c-4cdd-4168-8eb1-62bc19c678d4",
+    "id": "fa3d0e87-86dd-4b22-b113-c2db60d3a288",
     "title": "El Alcalde recibe en el Salón de Plenos a Fidel Rodríguez, entrenador y coordinador del gimnasio municipal , tras conseguir la medalla de bronce en el Campeonato de España por Equipos de Poomsae",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/IMG_0415.jpeg?itok=EwhzJzD4",
     "date": 1741046400000,
@@ -81,13 +81,31 @@
     "source": "acaniza"
   },
   {
-    "id": "9071be98-678a-415c-83d7-35015116950f",
+    "id": "eedf0082-3731-434b-a5ca-2335ed3e4fef",
     "title": "Invitación a nuestros vecinos para asistir al descubrimiento de la placa de la plaza «ARQUITECTA RITA FERNÁNDEZ QUEIMADELOS».",
     "image": "https://www.caniza.org/sites/default/files/styles/adet_image_rectang_hor/public/media/image/811d22e6-54b8-46cf-b6fb-1b4fbebeb404_2.jpg?itok=vdRcDSyp",
     "date": 1740960000000,
     "link": "https://www.caniza.org/es/actualidade/novas/invitacion-nuestros-vecinos-para-asistir-al-descubrimiento-de-la-placa-de-la",
     "text": "El miércoles, 5 de marzo de 2025, a las 12h en la Plaza del Mercado.",
     "source": "acaniza"
+  },
+  {
+    "id": "1453889971425",
+    "title": "Inés Rey reivindica a mocidade como xeración do cambio no congreso \"Lo Que De Verdad Importa\"",
+    "image": "https://www.coruna.gal/IMG/P_Suceso_1453889971425_1099934327828_1200_1280_U_9e94ef5092599257fe15a7dd1522ad5.png",
+    "date": 1742515200000,
+    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/ines-rey-reivindica-a-mocidade-como-xeracion-do-cambio-no-congreso-lo-que-de-verdad-importa/suceso/1453889971425",
+    "text": "A alcaldesa da Coruña participou na apertura do evento, que busca transmitir valores de superación e compromiso ás novas xeracións",
+    "source": "acoruna"
+  },
+  {
+    "id": "1453889959548",
+    "title": "O Concello presenta o proxecto de urbanización da praza José María Hernansáez á veciñanza do Castrillón",
+    "image": "https://www.coruna.gal/IMG/P_Suceso_1453889959548_1099934327828_1200_1280_U_6cd45f1ec27c6b7c63dd66548c99619b.png",
+    "date": 1742515200000,
+    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/o-concello-presenta-o-proxecto-de-urbanizacion-da-praza-jose-maria-hernansaez-a-vecinanza-do/suceso/1453889959548",
+    "text": "A actuación, que conta cun orzamento dun millón de euros, permitirá converter unha área degradada nunha praza accesible, con zonas de lecer e melloras na seguridade viaria",
+    "source": "acoruna"
   },
   {
     "id": "1453889936938",
@@ -122,7 +140,7 @@
     "image": "https://www.coruna.gal/IMG/P_Suceso_1453889885843_1099934327828_1200_1280_U_e99c27e684890dc3e5c54207896c63.png",
     "date": 1742428800000,
     "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/candela-pena-actuara-o-13-de-abril-no-teatro-colon-co-seu-espectaculo-pena-pena/suceso/1453889885843",
-    "text": "As entradas saen hoxe á venda a través de Ataquilla e da praza de Ourense",
+    "text": "As entradas saen hoxe á venda a través de Ataquilla e do despacho da praza de Ourense",
     "source": "acoruna"
   },
   {
@@ -177,24 +195,6 @@
     "date": 1742342400000,
     "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/a-coruna-acolle-unha-nova-edicion-de-oficios-en-accion-a-festa-da-artesania/suceso/1453889773136",
     "text": "Unha xornada aberta e gratuíta para achegar a cidadanía aos oficios artesanais",
-    "source": "acoruna"
-  },
-  {
-    "id": "1453889781019",
-    "title": "O Concello convoca á cidadanía ao proceso participativo para deseñar o futuro servizo de transporte urbano",
-    "image": "https://www.coruna.gal/IMG/P_Suceso_1453889781019_1099934327828_1200_1280_U_c6f6453938161a275a66e5b3de4f65.png",
-    "date": 1742342400000,
-    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/o-concello-convoca-a-cidadania-ao-proceso-participativo-para-desenar-o-futuro-servizo-de-transporte/suceso/1453889781019",
-    "text": "O primeiro encontro de presentación terá lugar o sábado 22 de marzo no auditorio do Ágora. Ata mediados de xuño celebraranse diversos \nEncontros de Barrio para facilitar a recollida das achegas da veciñanza",
-    "source": "acoruna"
-  },
-  {
-    "id": "1453889770000",
-    "title": "Trueno actuará no Coliseum o 27 de xuño como única data do noroeste peninsular",
-    "image": "https://www.coruna.gal/IMG/P_Suceso_1453889770000_1099934327828_1200_1280_U_16b6abc0e3a5244ca72ac6d83a305aee.png",
-    "date": 1742342400000,
-    "link": "https://www.coruna.gal/web/gl/actualidade/novas/nova/trueno-actuara-no-coliseum-o-27-de-xuno-como-unica-data-do-noroeste-peninsular/suceso/1453889770000",
-    "text": "As entradas para o concerto poñeranse á venda proximamente",
     "source": "acoruna"
   },
   {
@@ -1296,7 +1296,7 @@
     "source": "covelo"
   },
   {
-    "id": "7d1f1df9-a1df-48b0-88bb-86703e25d023",
+    "id": "bccbe8e3-4ea6-4a31-91a2-c4a791aff80e",
     "title": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación de Pontevedra",
     "date": 1737936000000,
     "text": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación",
@@ -1305,7 +1305,7 @@
     "source": "crecente"
   },
   {
-    "id": "dadbb24f-d236-4e50-ba9f-fac28bd9dc32",
+    "id": "bd16ed93-d33c-4935-84e0-b3e0c202c6e9",
     "title": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación de Pontevedra",
     "date": 1737936000000,
     "text": "O Concello destina 60.000 euros aos Servizos Sociais comunitarios no ano 2024, financiados con cargo ao Plan de Cofinanciamento dos Servizos Comunitarios da Deputación de Pontevedra e as Axudas Básicas de Emerxencia da Deputación",
@@ -1314,7 +1314,7 @@
     "source": "crecente"
   },
   {
-    "id": "9c691ee5-b888-4a3c-b82c-62e18052dfbd",
+    "id": "f6b17565-1b54-4657-b9ac-bd6271a57da0",
     "title": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER",
     "date": 1733702400000,
     "text": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER Compartir CompartirO Concello de Crecente mellora o camiño de Paradela, na parroquia de Angudes, gracias á financiación do AGADER mediante a con",
@@ -1323,7 +1323,7 @@
     "source": "crecente"
   },
   {
-    "id": "965b8fd9-e639-4cd2-a3b5-ff2bfdd80e63",
+    "id": "f48834b1-92c5-44c9-b51a-418347166968",
     "title": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER",
     "date": 1733702400000,
     "text": "O Concello de Crecente mellora o camiño de Paradela gracias á financiación do AGADER Compartir CompartirO Concello de Crecente mellora o camiño de Paradela, na parroquia de Angudes, gracias á financiación do AGADER mediante a con",
@@ -1332,7 +1332,7 @@
     "source": "crecente"
   },
   {
-    "id": "e3b12ffe-8826-40b0-9e39-941ed7df1336",
+    "id": "2e7586bc-6a15-41d0-8f6b-50ed7ff519db",
     "title": "Plan + provincia 2024",
     "date": 1727913600000,
     "text": "Plan + provincia 2024 Compartir CompartirO +PROVINCIA é xa un instrumento de transformación estratéxico para lograr un maior equilibrio territorial, cohesión social e avance económico A primeira edición do PLAN +PROVINCIA reforza",
@@ -1647,7 +1647,16 @@
     "source": "lousame"
   },
   {
-    "id": "5faedba9-c920-454a-98ef-b501395b04a4",
+    "id": "a943c8ec-b000-4fa3-a2df-096c6f93906e",
+    "title": "Comunicado de prensa de Policía Local de Lugo",
+    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/policialocal.png?itok=EHr5zXEU",
+    "date": 1742515200000,
+    "link": "https://concellodelugo.gal/gl/novas/comunicado-de-prensa-de-policia-local-de-lugo-21-03-2025",
+    "text": "A Policía Local de Lugo reforza a vixilancia da seguridade viaria con actuacións que evidencian a perigosidade de certos comportamentos ao volante.",
+    "source": "lugo"
+  },
+  {
+    "id": "08fb0067-2e6f-44eb-8c1a-0cfe993a2ebb",
     "title": "O Concello activará mañá un novo plan de tráfico que permitirá eliminar a circulación de vehículos pola Rúa Nova de forma definitiva",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/plano.png?itok=O1DJbf0q",
     "date": 1742428800000,
@@ -1656,7 +1665,7 @@
     "source": "lugo"
   },
   {
-    "id": "09f13127-62ec-48e9-a017-2097aae1a18c",
+    "id": "9d0a2694-4337-4d74-ab6f-4574c533fc89",
     "title": "O Executivo Municipal impulsa as Xornadas de Saúde Feminina para fomentar o benestar das mulleres no marco da programación do 8M",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/xornada_inaugural_muller.jpg?itok=f7Cuz2eU",
     "date": 1742428800000,
@@ -1665,7 +1674,7 @@
     "source": "lugo"
   },
   {
-    "id": "f99f4042-b063-4dd1-a0e1-1e19b2cba337",
+    "id": "97a466b4-98db-4a7d-be1b-c73c2ee019ed",
     "title": "O Concello de Lugo activa este xoves un novo Plan de Tráfico no entorno da Praza de Santo Domingo e a Praza de Ferrol",
     "image": "https://concellodelugo.gal/sites/default/files/logo.png",
     "date": 1742342400000,
@@ -1674,7 +1683,7 @@
     "source": "lugo"
   },
   {
-    "id": "21a47ea5-3c59-451a-8054-70f908fd82fc",
+    "id": "ac185780-df9c-401c-8885-c51e95997e12",
     "title": "Miguel Fernández aposta pola continuidade no novo organigrama municipal no que introduce pequenas modificacións encamiñadas a optimizar a xestión",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/whatsapp_image_2025-03-19_at_15.20.19.jpeg?itok=zhDVjFau",
     "date": 1742342400000,
@@ -1683,7 +1692,7 @@
     "source": "lugo"
   },
   {
-    "id": "5d0eb10c-5226-4796-b2dd-e3bbfa26951d",
+    "id": "68264adb-2bd5-49c7-947a-3af5f7050860",
     "title": "Transición Ecolóxica limpa e roza a avenida Adolfo Suárez en tempo récord cun amplo despregue de persoal e maquinaria",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/190325_desbroce_de_adolfo_suarez_1.jpeg?itok=2jkwoqBw",
     "date": 1742342400000,
@@ -1692,7 +1701,7 @@
     "source": "lugo"
   },
   {
-    "id": "c5932ebe-bc80-4218-b610-a6ed0290806b",
+    "id": "716fb93b-6f7f-427c-82cf-41802c0440d2",
     "title": "Benestar Social reforzará o asesoramento na súa Oficina de Inmigración para as mulleres estranxeiras vítimas de maltrato, abuso sexual e trata, ante os cambios lexislativos",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/180325_olga_lopez_xornadas_informativas_novo_regulamento_de_estranxeiria_1.jpeg?itok=OcibUrNK",
     "date": 1742256000000,
@@ -1701,7 +1710,7 @@
     "source": "lugo"
   },
   {
-    "id": "1275a207-c4d8-4fe2-9b55-02e22d3cf95b",
+    "id": "0acf622d-88e8-4204-8e36-d2a96643d5c4",
     "title": "A Área de Xuventude impulsa o ocio saudable nos barrios de Lugo cunha nova iniciativa deportiva e lúdica a través do programa +XTi",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/masxti2025_-_ocio_saudable_rrss.png?itok=OGiqO2bJ",
     "date": 1742256000000,
@@ -1710,21 +1719,12 @@
     "source": "lugo"
   },
   {
-    "id": "fb105f27-70cf-4b17-8768-8dd065c9edb6",
+    "id": "0bcee5be-e7df-4fea-a6f3-a8c1240ac9fc",
     "title": "Cristina López anuncia un paseo teatral para coñecer o Cemiterio Municipal",
     "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/img_0047.jpg?itok=mzAWuSWl",
     "date": 1742256000000,
     "link": "https://concellodelugo.gal/gl/novas/cristina-lopez-anuncia-un-paseo-teatral-para-conecer-o-cemiterio-municipal",
     "text": "A compañía Achádego Teatro dirixirá esta nova actividade que se celebrará o vindeiro domingo a partir das 17:30 horas.\n As entradas poden solicitarse na Oficina Municipal de Turismo ou chamando ao Cemiterio Municipal.",
-    "source": "lugo"
-  },
-  {
-    "id": "66f7651f-579f-4507-8ca8-d2d19b80dbdd",
-    "title": "O Executivo de Miguel Fernández aproba en Xunta de Goberno a adquisición de dúas parcelas no Castiñeiro para favorecer a dispersión de vivenda de protección na cidade",
-    "image": "https://concellodelugo.gal/sites/default/files/styles/medium/public/noticias/imagenes/2025/03/170325_visitaramonpineirovisitadirectorxeral_1.jpeg?itok=gZyoyojF",
-    "date": 1742169600000,
-    "link": "https://concellodelugo.gal/gl/novas/o-executivo-de-miguel-fernandez-aproba-en-xunta-de-goberno-adquisicion-de-duas-parcelas-no",
-    "text": "Para acadar a titularidade destes terreos sitos na rúa Ramón Piñeiro o Goberno local cederá á Xunta seis parcelas distribuidas ao longo de varias zonas da urbe e que foron seleccionadas polo ente autonómico dunha listaxe elaborada polos técnicos municipais.\nTrátase de 3 parcelas situadas no Polígono 4 da avanida Infata Elena, unha parcela en Paradai de Arrriba, outra en rúa Illa Coelleira e unha última situada na intersección da rúa Ángelo Colocci coa rúa Lavandeira.\n“Este acordo permitenos atender as demandas veciñais e evidencia a nosa disposición a traballar de xeito colaborativo co Goberno autonómico na procura de que a Xunta revirta o grave déficit de vivenda pública que sufrimos na nosa cidade”, sinalou.",
     "source": "lugo"
   },
   {
@@ -2340,7 +2340,25 @@
     "source": "mos"
   },
   {
-    "id": "5dd98f28-3eb6-4937-92fd-c531570c8f6f",
+    "id": "c28459e0-5436-4709-ba2c-89f982a8f6cc",
+    "title": "O Concello organiza actividades para escolares no Espazo Coeduca durante as vacacións de Semana Santa",
+    "image": "https://ourense.gal/media/news/El_Ayuntamiento_organiza_actividades_para_escolares_en_el_Espacio_Coeduca_durante__1ZvrG9s.apng",
+    "date": 1742515200000,
+    "link": "https://ourense.gal/gl/actualidad/o-concello-organiza-actividades-para-escolares-no-espazo-coeduca-durante-as-vacacions-de-semana-santa",
+    "text": "-",
+    "source": "ourense"
+  },
+  {
+    "id": "75d4b8d5-213f-49c6-b280-4a63e326a2ef",
+    "title": "O Concello comunícalles á Xunta e á asociación de comerciantes a súa vontade de concluír sen acordo as negociacións sobre a Praza de Abastos",
+    "image": "https://ourense.gal/media/news/El_Ayuntamiento_les_comunica_a_la_Xunta_y_a_la_asociaci%C3%B3n_de_comerciantes_su_volun_BpISCkp.jpeg",
+    "date": 1742515200000,
+    "link": "https://ourense.gal/gl/actualidad/o-concello-comunicalles-a-xunta-e-a-asociacion-de-comerciantes-a-sua-vontade-de-concluir-sen-acordo-as-negociacions-sobre-a-praza-de-abastos",
+    "text": "-",
+    "source": "ourense"
+  },
+  {
+    "id": "55c96a4f-c69a-46e2-b69b-0bc6b6535c01",
     "title": "Os descontos nos autobuses urbanos de Ourense seguirán vixentes até fin de ano",
     "image": "https://ourense.gal/media/news/Los_descuentos_en_los_autobuses_urbanos_de_Ourense_seguir%C3%A1n_vigentes_hasta_fin_de__IusRmh1.jpeg",
     "date": 1742428800000,
@@ -2349,7 +2367,7 @@
     "source": "ourense"
   },
   {
-    "id": "9b4d918d-8e7d-48cb-87a8-18934f0bf29c",
+    "id": "6f3c25a1-acf4-4f88-b637-fc5e68db514e",
     "title": "Unha sentenza do Xulgado do Social desestima unha demanda por acoso laboral contra o Concello e dous concelleiros",
     "image": "https://ourense.gal/media/news/Una_sentencia_del_Juzgado_de_lo_Social_desestima_una_demanda_por_acoso_laboral_con_ER9ffZC.jpeg",
     "date": 1742428800000,
@@ -2358,7 +2376,7 @@
     "source": "ourense"
   },
   {
-    "id": "9e675c20-2cdc-45c5-9b1a-39b24d4fd2b8",
+    "id": "f864431c-be00-42fb-9e89-95b1164aa206",
     "title": "O Concello presentará un recurso perante o Tribunal Superior de Xustiza de Galicia",
     "image": "https://ourense.gal/media/news/El_Ayuntamiento_presentar%C3%A1_un_recurso_ante_el_Tribunal_Superior_de_Justicia_de_Gal_EAkWAdE.jpeg",
     "date": 1742342400000,
@@ -2367,7 +2385,7 @@
     "source": "ourense"
   },
   {
-    "id": "c1d39535-3a2e-4043-9302-41f930916cf5",
+    "id": "7d100de0-a15c-4d09-9011-8becd1df5296",
     "title": "Concilia Semana Santa 2025",
     "image": "https://ourense.gal/media/news/Concilia_Semana_Santa_2025_2025-03-17_w0HbeBy.apng",
     "date": 1742169600000,
@@ -2376,7 +2394,7 @@
     "source": "ourense"
   },
   {
-    "id": "f44a9755-9d1b-45b6-891c-13e018ea8e69",
+    "id": "70444c19-cec0-45e2-8521-a6c96af6b678",
     "title": "O goberno local cifra en medio millón de euros o custo do Entroido 2025 e aspira a elevalo a un millón co apoio da Deputación e a Xunta",
     "image": "https://ourense.gal/media/news/El_gobierno_local_cifra_en_medio_mill%C3%B3n_de_euros_el_coste_del_Carnaval_2025_y_aspi_kZhf8fL.jpeg",
     "date": 1742169600000,
@@ -2385,7 +2403,7 @@
     "source": "ourense"
   },
   {
-    "id": "22d6d040-e5c0-4c8d-8d8f-ca03bc512649",
+    "id": "c11c391e-a03d-4e12-9aac-cda7d65ad490",
     "title": "O Concello organiza obradoiros de \"Educación deportiva para a vida\" para escolares de Infantil nos colexios",
     "image": "https://ourense.gal/media/news/El_Ayuntamiento_organiza_talleres_de_Educaci%C3%B3n_deportiva_para_la_vida_para_escolar_ZEaYLIj.apng",
     "date": 1742083200000,
@@ -2394,7 +2412,7 @@
     "source": "ourense"
   },
   {
-    "id": "d30344fc-0fde-4d46-a954-0315159efb9e",
+    "id": "87ae701d-3679-4f16-ab90-9516f40c0fd3",
     "title": "O Concello achega os escolares á arqueoloxía coa actividade ”Arqueocampo”, na que participarán mil nenas e nenos",
     "image": "https://ourense.gal/media/news/El_Ayuntamiento_acerca_a_los_escolares_a_la_arqueolog%C3%ADa_con_la_actividad_Arqueocam_K0nHlxP.apng",
     "date": 1741996800000,
@@ -2403,29 +2421,11 @@
     "source": "ourense"
   },
   {
-    "id": "746f9b18-b741-404f-95a0-f90ef3e071e3",
+    "id": "60cd81a9-c225-49be-804f-6b20ac936b2b",
     "title": "Ourense acollerá o congreso anual da Sociedade Española de Traumatoloxía Laboral, que reunirá 500 profesionais na cidade",
     "image": "https://ourense.gal/media/news/Ourense_acoger%C3%A1_el_congreso_anual_de_la_Sociedad_Espa%C3%B1ola_de_Traumatolog%C3%ADa_Laboral_8y7Wv6J.apng",
     "date": 1741910400000,
     "link": "https://ourense.gal/gl/actualidad/ourense-acollera-o-congreso-anual-da-sociedade-espanola-de-traumatoloxia-laboral-que-reunira-500-profesionais-na-cidade",
-    "text": "-",
-    "source": "ourense"
-  },
-  {
-    "id": "eb4242ab-2e49-4563-bb40-7a961535b1b5",
-    "title": "Ourense contará cun “supercámping” de iniciativa privada na zona de Regoalde, dotado con todo tipo de servizos",
-    "image": "https://ourense.gal/media/news/Ourense_contar%C3%A1_con_un_supercamping_de_iniciativa_privada_en_la_zona_de_Regoalde_d_VUjQnsZ.apng",
-    "date": 1741910400000,
-    "link": "https://ourense.gal/gl/actualidad/ourense-contara-cun-supercamping-de-iniciativa-privada-na-zona-de-regoalde-dotado-con-todo-tipo-de-servizos-o-alcalde-gonzalo-jacome-recibiu-a-millan-holla-empresario-dos-paises-baixos-que-promove-a-iniciativa-e-o-arquitecto-alberto-de-paula-tera-50-hectareas-e-contara-con-zonas-de-glamping-bungalows-e-autocaravanas-restaurante-e-piscinas-enclavado-en-plena-natureza-e-a-apenas-5-minutos-da-cidade",
-    "text": "-",
-    "source": "ourense"
-  },
-  {
-    "id": "ff2f5d5b-2adb-497d-a330-dbecf5cd5e96",
-    "title": "O Concello inicia un ciclo de visitas didácticas ao Parque de Bombeiros no que participarán máis de 700 escolares",
-    "image": "https://ourense.gal/media/news/250313_El_Ayuntamiento_inicia_un_ciclo_de_visitas_did%C3%A1cticas_al_Parque_de_Bomberos__pJas9Xu.mpo",
-    "date": 1741824000000,
-    "link": "https://ourense.gal/gl/actualidad/250313-o-concello-inicia-un-ciclo-de-visitas-didacticas-ao-parque-de-bombeiros-no-que-participaran-mais-de-700-escolares",
     "text": "-",
     "source": "ourense"
   },
@@ -3321,6 +3321,15 @@
     "source": "outes"
   },
   {
+    "id": "1674",
+    "title": "Padrón avanza na reparación histórica retirando os recoñecementos a Franco",
+    "image": "https://padron.gal//media/k2/items/cache/3cfd4ff673c93395fd580159a9616109_M.jpg",
+    "date": 1742515200000,
+    "link": "https://padron.gal//actualidade/item/1674-padron-avanza-na-reparacion-historica-retirando-os-reconecementos-a-franco",
+    "text": "A proposta será presentada no Pleno que se celebrará o xoves 27 de marzo A medida, que responde á Lei de Memoria Democrática, inclúe a devolución da Medalla de Ouro e un rexeitamento ao réxime franquista  “É un acto de xustiza e reparación necesario”, subliña o alcalde Anxo Arca   O goberno municipal levará ao próximo Pleno do Concello, que se celebra o xoves 27 de marzo, a proposta para a retirada das honras e distincións concedidas ao ditador Francisco Franco como parte do compromiso coas obrigas establecidas na Lei 20/2022, de Memoria Democrática. A decisión chega tras a confirmación dun…",
+    "source": "padron"
+  },
+  {
     "id": "1672",
     "title": "Xa está aberto o prazo de inscrición para a Carreira Popular de Pascua 2025",
     "image": "https://padron.gal//media/k2/items/cache/057acae1d45bff2130e8f74dbba70218_M.jpg",
@@ -3402,13 +3411,13 @@
     "source": "padron"
   },
   {
-    "id": "1660",
-    "title": "Lidia Veiga é a gañadora do XXIV Premio de Interpretación Teatral Maruxa Villanueva que outorga o Concello de Padrón",
-    "image": "https://padron.gal//media/k2/items/cache/e31b4ef5fe69d7624f289686f96a276f_M.jpg",
-    "date": 1740960000000,
-    "link": "https://padron.gal//actualidade/item/1660-lidia-veiga-e-a-ganadora-do-xxiv-premio-de-interpretacion-teatral-maruxa-villanueva-que-outorga-o-concello-de-padron",
-    "text": "O galardón recoñece a interpretación da actriz arzuana na obra  ‘Iribarne’, papel que lle valeu a candidatura aos Premios Max  O xurado, presidido polo alcalde Anxo Arca, destaca a súa versatilidade interpretativa e a calidade do seu traballo escénico   Lidia Veiga foi recoñecida co XXIV Premio de Interpretación Teatral Maruxa Villanueva, galardón outorgado polo Concello de Padrón en recoñecemento a súa interpretación na obra Iribarne. O seu papel nesta peza co-producida pola compañía Butaca Zero e polo Centro Nacional Dramático valeulle a candidatura aos Premios Max á Mellor Interpretación Feminina, así como a nominación aos premios María Casares como…",
-    "source": "padron"
+    "id": 38914,
+    "title": "Porto do Son presente na 12ª gala de entrega de premios Down Compostela ",
+    "image": "https://portodoson.gal/wp-content/uploads/2025/03/FOTO-Porto-do-Son-presente-na-12a-gala-de-entrega-de-premios-Down-Compostela-.webp",
+    "date": 1742554337000,
+    "link": "https://portodoson.gal/porto-do-son-presente-na-12a-gala-de-entrega-de-premios-down-compostela/",
+    "text": "<p>A tenente de alcalde, María Maroñas, xunto a Magdalena Pérez, que acudiu en calidade de parlamentaria, estiveron presentes onte na duodécima gala de entrega de premios ‘Down Compostela’, organizada por esta entidade.&nbsp; A sala Mozart do Auditorio de Galicia, en Santiago de Compostela, acolleu esta gala na que os galardoados nesta edición foron a psicóloga, &hellip;</p>\n",
+    "source": "portodoson"
   },
   {
     "id": 38872,
@@ -3528,24 +3537,6 @@
     "source": "portodoson"
   },
   {
-    "id": 38627,
-    "title": "Marzo infinitamente natural",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/Concello-de-Porto-do-Son-IG-2025-Recollida-de-Voluminosos-4-de-marzo.webp",
-    "date": 1740401825000,
-    "link": "https://portodoson.gal/marzo-infinitamente-natural/",
-    "text": "<p>O vindeiro martes, 4 de marzo, o Concello de Porto do Son vai realizar unha nova recollida de voluminosos e de residuos a domicilio. Un servizo totalmente gratuíto no que as persoas interesadas só precisan chamar ao 881 988 550 / 881 987 175 para solicitar a información. Tan só se recollerán os enseres que estean á beira do &hellip;</p>\n",
-    "source": "portodoson"
-  },
-  {
-    "id": 38608,
-    "title": "Luis Oujo recibe ás redeiras artesás galegas de ‘O Peirao’ e da Asociación Itsas Emakume Langileen Federazioa da Comunidade Autónoma Vasca",
-    "image": "https://portodoson.gal/wp-content/uploads/2025/02/PORTO-DO-SON-Luis-Oujo-recibe-as-redeiras-artesas-galegas-de-‘O-Peirao-e-da-Asociacion-de-Rederas-de-Bajura-de-Cantabria-.webp",
-    "date": 1740161718000,
-    "link": "https://portodoson.gal/luis-oujo-recibe-as-redeiras-artesas-galegas-de-o-peirao-e-da-asociacion-de-rederas-de-bajura-de-cantabria/",
-    "text": "<p>Durante a mañá de hoxe, 21 de febreiro, o alcalde de Porto do Son, Luis Oujo acompañado da tenente de alcalde, María José Maroñas Sóñora, a concelleira de Cultura e Festexos, Alicia&nbsp;&nbsp;Martínez Maneiro e do concelleiro de Deportes, Xuventude e Ludoteca, Carlos Lorenzo Blanco, recibiron ás redeiras da Fedaración Galega de Redeiras Artesás ‘O Peirao’, &hellip;</p>\n",
-    "source": "portodoson"
-  },
-  {
     "id": "4285568",
     "title": "Festas da Guadalupe 2024",
     "image": "https://concelloderianxo.gal/documents/1556855/1556857/Poster+Guadalupe+2024.jpg/acbfe06a-48b6-64b5-893d-ce3354889933?version=1.0&t=1724167078221",
@@ -3643,6 +3634,15 @@
     "link": "https://concelloderianxo.gal/c/blogs/find_entry?p_l_id=155101&entryId=3546126",
     "text": "<p>O Concello de Rianxo homenaxea, como é habitual o primeiro de maio, á xente do mar, cunha ofrenda floral ante o monumento ás persoas falecidas no mar do Parque de Galicia e unha ofrenda floral marítima.</p>",
     "source": "rianxo"
+  },
+  {
+    "id": "527393",
+    "title": "Ribeira celebra o sábado 29 a XIII Velada de Boxeo Ciudad de Ribeira",
+    "image": "https://www.ribeira.gal/o/adaptive-media/image/527372/2/e1fc5c95-97f4-57c2-762c-7e02f8a9227c?t=1742550101233",
+    "date": 1742515200000,
+    "link": "https://www.ribeira.gal/noticias/-/asset_publisher/e68fDEVIe6E7/content/id/527393",
+    "text": "Xoves 20 de marzo de 2025 Hoxe tivo lugar a presentación desta velada de boxeo que xa vai pola trixésima edición (tantos anos como ten o propio...",
+    "source": "ribeira"
   },
   {
     "id": "527122",
@@ -3804,15 +3804,6 @@
     "date": 1741392000000,
     "link": "https://www.ribeira.gal/noticias/-/asset_publisher/e68fDEVIe6E7/content/id/522255",
     "text": "No Día Internacional da Muller a Concellaría de Igualdade ribeirense, que dirixe Cruz Rivadulla, organizou un acto de apoderamento e recoñecemento...",
-    "source": "ribeira"
-  },
-  {
-    "id": "521909",
-    "title": "Ribeira recoñece o mérito do Mega Builder Team que vén de clasificarse para xogar o Campionato Nacional First Lego League",
-    "image": "https://www.ribeira.gal/o/adaptive-media/image/521891/2/43c25e4e-a52b-1f41-e0e6-1c63be256031?t=1741356190208",
-    "date": 1741305600000,
-    "link": "https://www.ribeira.gal/noticias/-/asset_publisher/e68fDEVIe6E7/content/id/521909",
-    "text": "Venres 7 de marzo de 2025 Esta semana o equipo Mega Builder Team de robótica de Ribeira foi recibido polo goberno local no Concello despois de que...",
     "source": "ribeira"
   },
   {
@@ -4284,7 +4275,25 @@
     "source": "salvaterra"
   },
   {
-    "id": "6de567dd-3ad9-4bd5-b8c9-9e7bf6536295",
+    "id": "f812f8a1-22e7-4358-a863-8edf7ce5a553",
+    "title": "Tui renova as luminarias de acceso á cidade",
+    "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-iluminacion-led.jpg?itok=ISBFld2b",
+    "date": 1742515200000,
+    "link": "https://tui.gal/gl/novas/tui-renova-luminarias-de-acceso-cidade",
+    "text": "O Servizo de Electricidade do Concello de Tui comezou a semana pasada a realizar o cambio das luminarias nas farolas nos accesos á cidade dende Rebordáns e Randufe, así coma nas...",
+    "source": "tui"
+  },
+  {
+    "id": "77d608cc-edfd-4ebc-acd6-f4b57d418a6f",
+    "title": "O Concello de Tui súmase á Hora do Planeta apagando a...",
+    "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui.web-cenentario-paseo-manuel-lago_1.jpg?itok=z_-KCE3H",
+    "date": 1742515200000,
+    "link": "https://tui.gal/gl/novas/o-concello-de-tui-sumase-hora-do-planeta-apagando-iluminacion-da-catedral",
+    "text": "O Concello de Tui reafirma o seu compromiso na loita contra o cambio climático e súmase, un ano máis, á iniciativa global da Hora do Planeta, promovida por WWF. Mañá, sábado 22 de...",
+    "source": "tui"
+  },
+  {
+    "id": "819e93a7-ed6d-43f9-9194-5d9d3dea228d",
     "title": "O Concello de Tui contratará a 16 persoas ao abeiro do  Plan +...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-plan-mais-provincia.png?itok=2tjSMygc",
     "date": 1742428800000,
@@ -4293,7 +4302,7 @@
     "source": "tui"
   },
   {
-    "id": "bceca973-ce95-4191-a1f0-4ad0dbd59dee",
+    "id": "bb5d2c1d-eb62-4af4-95d3-62515904e0f1",
     "title": "O ilustrador tudense Carlos Lago deseñará o cartel das Festas...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-carlos-lago-desena-cartel-san-telmo-2025.png?itok=GINpdU1N",
     "date": 1742428800000,
@@ -4302,7 +4311,7 @@
     "source": "tui"
   },
   {
-    "id": "17adc5c9-ebba-4dc6-a5ed-4f1818b760c4",
+    "id": "98d26851-c601-4003-bd43-77fa52fb9f54",
     "title": "Preto de 30 mulleres participarán no Mercado Elas Facedoras...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-elas-facedoras-web.jpg?itok=WAysw4ca",
     "date": 1742428800000,
@@ -4311,7 +4320,7 @@
     "source": "tui"
   },
   {
-    "id": "943be5f0-1e27-4079-95f3-8db1b4390f15",
+    "id": "bc1b16fc-d958-42b2-b398-afc1e6ae4c47",
     "title": "A Ultreia baterá récord de participación o próximo 6 de abril",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-pres-ultreia.png?itok=bnmJv7r6",
     "date": 1742256000000,
@@ -4320,7 +4329,7 @@
     "source": "tui"
   },
   {
-    "id": "9f101ab8-4b10-4c8b-9623-d5f6f6346ed2",
+    "id": "7dee0cd7-140a-491b-ba6e-3d9c2e9c4803",
     "title": "Presentación do libro “As benfaladas” de María Xosé Porteiro...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-acto-8m-maria-xose-porteiro.png?itok=fL0JxeLB",
     "date": 1742256000000,
@@ -4329,7 +4338,7 @@
     "source": "tui"
   },
   {
-    "id": "9476d7f2-1754-4406-8689-1adcff4da136",
+    "id": "c3ac6124-f7d9-4f7b-a5d5-6447dfd1f093",
     "title": "O  próximo martes 18 preséntase a Ultreia 2025",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-cp-pres-ultreia-2025.jpg?itok=4ekF1H6Y",
     "date": 1741910400000,
@@ -4338,7 +4347,7 @@
     "source": "tui"
   },
   {
-    "id": "4fa03f21-f061-41c8-9471-41c5c5093d0b",
+    "id": "f8d67501-55ca-4923-9f61-a2318950703d",
     "title": "Unha conferencia de Marta Cendón pecha o ciclo sobre o...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-manuel-lago-martes-1803.jpg?itok=lmULxVFL",
     "date": 1741910400000,
@@ -4347,7 +4356,7 @@
     "source": "tui"
   },
   {
-    "id": "7d85482f-e246-40d8-acda-636b5537eeb6",
+    "id": "ff4ce55f-d744-49f9-8b3e-15f1017b5449",
     "title": "O autobús do teatro sairá de Tui para asistir á representación...",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-sobes-autobus-teatro-2025.jpg?itok=z5yw8_fW",
     "date": 1741910400000,
@@ -4356,7 +4365,7 @@
     "source": "tui"
   },
   {
-    "id": "5b0e4460-538e-4a2e-ae2d-d53140cf9663",
+    "id": "711de356-e615-495b-861e-af011e3e6c48",
     "title": "Mesa redonda sobre Manuel Lago o próximo luns",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-manuel-lago-luns-1703.jpg?itok=GNkfvqnD",
     "date": 1741824000000,
@@ -4365,7 +4374,7 @@
     "source": "tui"
   },
   {
-    "id": "d6a21ba4-c9d7-4b7f-97c4-06f5b707e2f6",
+    "id": "bf7f7c35-5b05-4a73-a6b0-c939409d2214",
     "title": "A Eurocidade Tui-Valença promociónase na BTL de Lisboa",
     "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-btl-lisboa-2025.png?itok=EDQxImX3",
     "date": 1741824000000,
@@ -4374,22 +4383,13 @@
     "source": "tui"
   },
   {
-    "id": "2580f034-1e9d-48b9-b4ce-34133961f8ad",
-    "title": "Xornada de portas abertas na EDAR de Guillarei O Consorcio...",
-    "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-xornada-portas-abertas-edar_1.jpg?itok=rxY9VHwg",
-    "date": 1741737600000,
-    "link": "https://tui.gal/gl/novas/xornada-de-portas-abertas-na-edar-de-guillarei-o-consorcio-augas-do-louro-e-aqualia-celebran-o-dia-mundial-da-auga-cunha-xornada-de-portas-abertas-na-edar-de-guillarei",
-    "text": "O Consorcio de Augas do Louro e Aqualia organizan unha xornada de portas abertas con visitas guiadas á EDAR de Guillarei o próximo sábado 22 de marzo con motivo do Día Mundial da...",
-    "source": "tui"
-  },
-  {
-    "id": "d8830445-87a5-4491-ba36-376ecd4cbf58",
-    "title": "O equipo de goberno reunirase coa veciñanza das parroquias para...",
-    "image": "https://tui.gal/sites/default/files/styles/actualidad_portada/public/noticias/concello-de-tui-reunions-parroquias-2025.jpg?itok=5ryuJihd",
-    "date": 1741737600000,
-    "link": "https://tui.gal/gl/novas/o-equipo-de-goberno-reunirase-coa-vecinanza-das-parroquias-para-conecer-suas-necesidades",
-    "text": "Ao longo das próximas semanas o equipo de goberno de Tui vai manter xuntanzas coa veciñanza de todas as parroquias para coñecer de primeira man as necesidades de cada unha delas e...",
-    "source": "tui"
+    "id": 1778,
+    "title": "Nace “Lázaro Gastronómico”: tradición, innovación e sabor nunha nova proposta municipal",
+    "image": "https://verin.es/wp-content/uploads/2025/03/nova21032025.webp",
+    "date": 1742562058000,
+    "link": "https://verin.es/nace-lazaro-gastronomico-tradicion-innovacion-e-sabor-nunha-nova-proposta-municipal/",
+    "text": "<p>“Pincha no Lázaro”, contará este ano coa participación de 20 locais hostaleiros, fronte aos 13 da edición anterio Verín, 21<span class=\"excerpt-hellip\"> […]</span></p>\n",
+    "source": "verin"
   },
   {
     "id": 1734,
@@ -4554,15 +4554,6 @@
     "source": "verin"
   },
   {
-    "id": 1503,
-    "title": "O Concello oferta un curso oficial, gratuíto para desempregados, de socorrismo en instalacións acuáticas",
-    "image": "https://verin.es/wp-content/uploads/2024/09/nova24092024.webp",
-    "date": 1737398288000,
-    "link": "https://verin.es/o-concello-oferta-un-curso-oficial-gratuito-para-desempregados-de-socorrismo-en-instalacions-acuaticas/",
-    "text": "<p>O Concello de Verín impartirá un curso oficial, gratuito para desempregados, de socorrismo en instalacións acuáticas.O mesmo terá lugar desde<span class=\"excerpt-hellip\"> […]</span></p>\n",
-    "source": "verin"
-  },
-  {
     "id": "31962",
     "title": "O Pleno aproba a concesión das Medallas da Cidade e dos galardóns de Viguesas e Vigueses Distinguidos",
     "image": "https://xornal.vigo.org/storage/images/opt/N5P3uvIjCyeg6gRVlh8PYnkJH4t8spyEmcQ9VNeP.jpeg",
@@ -4605,6 +4596,15 @@
     "date": 1742428800000,
     "link": "https://xornal.vigo.org/noticias/31963-o-concelloachega-a-poesia-ao-traves-da-musica-aos-escolares-de-primaria-e-secundaria-co-programa-vigo-entre-notas-e-versos",
     "text": "Abel Caballero incidiu hoxe ante os alumnos e alumnas de quinto e sexto de Educación Primaria e de primeiro e segundo de Educación Secundaria que participan non Auditorio Municipal na última das tres xornadas de \"Vigo, entre notas e versos\", na importancia da afondar non coñecemento da poesía e da literatura e de seguir con atención cada unha das obras seleccionadas polo escritor Antonio García Teijeiro e o intérprete musical Alberto Cunha. A iniciativa didáctica, organizada con motivo da celebración, mañá 21, do Día Mundial da Poesía, achega ao alumnado de Vigo a autores como García Lorca o Rosalía de Castro.",
+    "source": "vigo"
+  },
+  {
+    "id": "31969",
+    "title": "O alcalde reúnese cos integrantes do Corpo Consular de Vigo",
+    "image": "https://xornal.vigo.org/storage/images/opt/2It5Rb57WIsxxhiC0L49QhTytrGNuMPFt0b75pRf.jpeg",
+    "date": 1742428800000,
+    "link": "https://xornal.vigo.org/noticias/31969-o-alcalde-reunese-cos-integrantes-do-corpo-consular-de-vigo",
+    "text": "Abel Caballero participou este xoves, no Círculo de Empresarios de Galicia, nun coloquio cos integrantes do Corpo Consular en Vigo. Os participantes abordaron a situación socioeconómica, ademais dos temas de proxección internacional que acaparan a axenda dos representantes institucionais e os distintos proxectos que lidera o alcalde para o desenvolvemento da cidade.",
     "source": "vigo"
   },
   {
@@ -4689,39 +4689,21 @@
     "source": "xinzodelimia"
   },
   {
-    "id": "010946",
-    "title": "La Xunta aboga por la coordinación de esfuerzos para seguir avanzando en el apoyo al emprendimiento ligado al territorio",
-    "image": "https://www.xunta.gal/documents/35297/1641673/20250320ConselleiroEmpregoWorkCaf%C3%A9Vigo.jpg?version=1.0&imageThumbnail=2\n",
-    "date": 1742497980000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010946/xunta-aboga-por-coordinacion-esfuerzos-para-seguir-avanzando-apoyo-emprendimiento",
-    "text": "José González puso de relieve la apuesta de Galicia por la colaboración público-privada para impulsar ideas que beneficien a la comunidad y el trabajo que se está llevando a cabo para identificar oportunidades de negocio atendiendo al potencial de las ciudades y villas",
+    "id": "010964",
+    "title": "La campaña ‘GALICIA SABE AMAR’ llega a Mugardos con un reparto de aperitivos entre los escolares del CEIP Santiago Apóstol",
+    "image": "https://www.xunta.gal/documents/35297/1641676/GaliciaSabeAmar.jpg?version=1.0&imageThumbnail=2\n",
+    "date": 1742560440000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010964/campana-galicia-sabe-amar-llega-mugardos-con-reparto-aperitivos-entre-los-escolares",
+    "text": "La delegada territorial de Ferrol, Martina Aneiros, destacó la iniciativa con la que el Gobierno gallego promueve el consumo de productos del mar, impulsa su venta y pone en valor el trabajo de los profesionales de la pesca y del marisqueo",
     "source": "xunta"
   },
   {
-    "id": "010949",
-    "title": "La Xunta aborda con representantes de las fuerzas y cuerpos de seguridad del Estado la actualización de los protocolos frente a la violencia contra los profesionales sanitarios",
-    "image": "https://www.xunta.gal/documents/35297/1641673/20250320+Reunion+Sanidade+Forzas+e+Corpos+de+Seguridade2.jpeg?version=1.0&imageThumbnail=2\n",
-    "date": 1742494500000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010949/xunta-aborda-con-representantes-las-fuerzas-cuerpos-seguridad-del-estado-actualizacion",
-    "text": "En el encuentro se analizó el procedimiento actual en materia de traslados e ingresos no voluntarios y urgentes de personas con enfermedad o trastorno mental y el de prevención y actuación en casos de violencia externa, con el fin de su posible mejora",
-    "source": "xunta"
-  },
-  {
-    "id": "010948",
-    "title": "Más del 65 % de los servicios de atención primaria gallegos ya cuentan con un Plan Local de Saúde que adapta la asistencia a las necesidades de cada población",
-    "image": "https://www.xunta.gal/documents/35297/1641673/20250320+Premios+Plans+locais+de+sa%C3%BAde+1.jpg?version=1.0&imageThumbnail=2\n",
-    "date": 1742491980000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010948/mas-del-65-los-servicios-atencion-primaria-gallegos-cuentan-con-plan-local-saude",
-    "text": "Gómez Caamaño destaca que, desde la puesta en marcha de los primeros 14 Plans Locais de Saúde en el año 2022, este modelo se ha extendido de manera ejemplar, alcanzando en la actualidad 95 servicios de atención primaria",
-    "source": "xunta"
-  },
-  {
-    "id": "010947",
-    "title": "La Xunta destaca las iniciativas de las residencias de mayores para estimular la actividad cognitiva y prevenir las demencias",
-    "image": "https://www.xunta.gal/documents/35297/1641673/20250320+DXmaioresBandeCarballi%C3%B1o.jpeg?version=1.0&imageThumbnail=2\n",
-    "date": 1742491680000,
-    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010947/xunta-destaca-las-iniciativas-las-residencias-mayores-para-estimular-actividad",
-    "text": "Antón Acevedo señala que la labor de los profesionales sociosanitarios es fundamental para garantizar el envejecimiento activo y saludable de las personas que viven en centros residenciales",
+    "id": "010960",
+    "title": "La Xunta pone en marcha ‘Conecta con Galicia en el Camino’, un programa destinado a que la juventud gallega recorra la ruta Jacobea",
+    "image": "https://www.xunta.gal/documents/35297/1641676/221030_Xacobeo_Berenguela_Catedral_RECS_DCS_3.jpg?version=1.0&imageThumbnail=2\n",
+    "date": 1742556720000,
+    "link": "https://www.xunta.gal/es/notas-de-prensa/-/nova/010960/xunta-pone-marcha-conecta-con-galicia-camino-programa-destinado-que-juventud",
+    "text": "El Diario Oficial de Galicia publica hoy la convocatoria unificada de las iniciativas ‘Conecta con Galicia’ y ‘Conecta con el Camino’, a través de la cual se ofertan 120 plazas, 96 reservadas para jóvenes residentes en el exterior y 24 para aquellos que viven en Galicia",
     "source": "xunta"
   }
 ]
